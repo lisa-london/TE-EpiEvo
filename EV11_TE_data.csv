@@ -1,0 +1,143 @@
+genome,total_count,total_length,Species,DNMT1,DNMT2,DNMT3,PIWI,DNMT,filename,length,masked,gc,seqs,Phylo
+Acanthocheilonema_viteae,5254,1338727,Acanthocheilonema viteae,-1,1,-1,-1,-1,acanthocheilonema_viteae.PRJEB4306.WBPS6.genomic.fa,77350906,4592927,29.92,6796,Nematodes Clade III
+Acyrthosiphon_pisum,320719,100734868,Acyrthosiphon pisum,1,1,1,1,1,Acyrthosiphon_pisum.GCA_000142985.2.dna.toplevel.fa,541675471,168550186,29.76,23924,Arthropods
+Amphimedon_queenslandica,101826,43261462,Amphimedon queenslandica,1,1,1,1,1,Amphimedon_queenslandica.Aqu1.dna.toplevel.fa,166679601,64830374,35.82,13397,Other
+Ancylostoma_caninum,219993,81528305,Ancylostoma caninum,-1,1,-1,1,-1,ancylostoma_caninum.PRJNA72585.WBPS6.genomic.fa,465750606,171053500,42.78,25339,Nematodes Clade V
+Ancylostoma_ceylanicum,171212,66767534,Ancylostoma ceylanicum,-1,1,-1,1,-1,ancylostoma_ceylanicum.PRJNA231479.WBPS6.genomic.fa,313092710,138469974,43.4,1736,Nematodes Clade V
+Anopheles_darlingi,7970,2000107,Anopheles darlingi,-1,1,-1,1,-1,Anopheles_darlingi.AdarC3.dna.toplevel.fa,136950925,10040096,48.3,2221,Arthropods
+Anopheles_gambiae,84881,32430151,Anopheles gambiae,-1,1,-1,1,-1,Anopheles_gambiae.AgamP4.dna.toplevel.fa,273109044,57228804,44.27,8,Arthropods
+Apis_mellifera,20224,5238030,Apis mellifera,1,1,1,1,1,Apis_mellifera.GCA_000002195.1.dna.toplevel.fa,250270657,27269446,32.7,5320,Arthropods
+Atta_cephalotes,123405,41878573,Atta cephalotes,1,1,1,1,1,Atta_cephalotes.GCA_000143395.2.dna.toplevel.fa,317690795,90913801,32.57,2836,Arthropods
+Belgica_antarctica,6432,1755294,Belgica antarctica,1,1,-1,1,1,Belgica_antarctica.GCA_000775305.1.dna.toplevel.fa,89583723,4075264,38.88,4997,Arthropods
+Bombus_impatiens,55218,15772407,Bombus impatiens,1,1,1,1,1,Bombus_impatiens.GCA_000188095.2.dna.toplevel.fa,249185056,39413276,37.75,5559,Arthropods
+Bombyx_mori,456537,119721708,Bombyx mori,1,1,-1,1,1,Bombyx_mori.GCA_000151625.1.dna.toplevel.fa,481803763,195868591,37.67,43462,Arthropods
+Brugia_malayi,9581,4034020,Brugia malayi,-1,1,-1,-1,-1,brugia_malayi.PRJNA10729.WBPS6.genomic.fa,88235797,11949609,28.49,197,Nematodes Clade III
+Bursaphelenchus_xylophilus,44686,11371276,Bursaphelenchus xylophilus,-1,-1,-1,-1,-1,bursaphelenchus_xylophilus.PRJEA64437.WBPS6.genomic.fa,74561461,19295958,40.37,5527,Nematodes Clade VI
+Caenorhabditis_afra,19608,4937286,Caenorhabditis afra,-1,-1,-1,1,-1,Caenorhabditis_afra_JU1286_v1.scaffolds.fa,65617084,12141668,47.1,1898,Nematodes Clade V
+Caenorhabditis_angaria,37577,8005505,Caenorhabditis angaria,-1,-1,-1,1,-1,caenorhabditis_angaria.PRJNA51225.WBPS6.genomic.fa,105997628,21035585,35.73,34621,Nematodes Clade V
+Caenorhabditis_brenneri,69898,23533794,Caenorhabditis brenneri,-1,-1,-1,1,-1,caenorhabditis_brenneri.PRJNA20035.WBPS6.genomic.fa,190369721,42691697,38.63,3305,Nematodes Clade V
+Caenorhabditis_briggsae,94751,24027669,Caenorhabditis briggsae,-1,-1,-1,1,-1,caenorhabditis_briggsae.PRJNA10731.WBPS6.genomic.fa,108419665,36558281,37.35,12,Nematodes Clade V
+Caenorhabditis_castelli,37980,9503236,Caenorhabditis castelli,-1,-1,-1,1,-1,Caenorhabditis_castelli_JU1956_v1.scaffolds.fa,77883894,20849661,33.85,1964,Nematodes Clade V
+Caenorhabditis_doughertyi,61649,21041591,Caenorhabditis doughertyi,-1,-1,-1,1,-1,Caenorhabditis_doughertyi.JU1771_v1.scaffolds.fa,140724567,40008420,37.36,10147,Nematodes Clade V
+Caenorhabditis_elegans,47708,13080370,Caenorhabditis elegans,-1,-1,-1,1,-1,caenorhabditis_elegans.PRJNA13758.WBPS6.genomic.fa,100286401,23774559,35.44,7,Nematodes Clade V
+Caenorhabditis_japonica,171574,49324767,Caenorhabditis japonica,-1,-1,-1,1,-1,caenorhabditis_japonica.PRJNA12591.WBPS6.genomic.fa,166256191,85997381,39.22,18817,Nematodes Clade V
+Caenorhabditis_kamaaina,27206,6447167,Caenorhabditis kamaaina,-1,-1,-1,1,-1,Caenorhabditis_kamaaina_QG2077_v1.scaffolds.fa,86496494,17017229,38.33,8860,Nematodes Clade V
+Caenorhabditis_latens,42827,11924341,Caenorhabditis latens,-1,-1,-1,1,-1,Caenorhabditis_latens_PX534_v1.scaffolds.fa,117124750,23748376,38.45,1858,Nematodes Clade V
+Caenorhabditis_monodelphis,60955,14459778,Caenorhabditis monodelphis,-1,1,-1,1,-1,Caenorhabditis_monodelphis_JU1667_v1.scaffolds.fa,115120247,32992605,43.91,6863,Nematodes Clade V
+Caenorhabditis_nouraguensis,17561,5045761,Caenorhabditis nouraguensis,-1,-1,-1,1,-1,Caenorhabditis_nouraguensis_JU2079_v1.scaffolds.fa,72888084,10679061,42.96,1915,Nematodes Clade V
+Caenorhabditis_plicata,131631,32567540,Caenorhabditis plicata,-1,-1,-1,-1,-1,Caenorhabditis_plicata.SB355_v1.scaffolds.fa,111456717,51029572,33.27,5064,Nematodes Clade V
+Caenorhabditis_remanei,67849,22471562,Caenorhabditis remanei,-1,-1,-1,1,-1,caenorhabditis_remanei.PRJNA53967.WS252.genomic.fa,145442736,40637126,37.97,3670,Nematodes Clade V
+Caenorhabditis_sinica,53918,14749521,Caenorhabditis sinica,-1,-1,-1,1,-1,caenorhabditis_sinica.PRJNA194557.WBPS6.genomic.fa,131797386,31197570,39.48,15261,Nematodes Clade V
+Caenorhabditis_sp21,35616,11100471,Caenorhabditis sp21,-1,1,-1,1,-1,Caenorhabditis_sp21_NIC534_v1.scaffolds.fa,93737141,26725479,39.29,5719,Nematodes Clade V
+Caenorhabditis_sp26,66838,17561498,Caenorhabditis sp26,-1,-1,-1,1,-1,Caenorhabditis_sp26.JU2190_v1.scaffolds.fa,101089037,31938092,38.31,3128,Nematodes Clade V
+Caenorhabditis_sp28,26526,7315547,Caenorhabditis sp28,-1,-1,-1,1,-1,Caenorhabditis_sp28_QG2080_v1.scaffolds.fa,79259607,13386722,42.16,1135,Nematodes Clade V
+Caenorhabditis_sp29,31488,9054338,Caenorhabditis sp29,-1,-1,-1,1,-1,Caenorhabditis_sp29_QG2083_v1.scaffolds.fa,92597632,18063560,43.21,2894,Nematodes Clade V
+Caenorhabditis_sp31,27398,8768715,Caenorhabditis sp31,-1,-1,-1,1,-1,Caenorhabditis_sp31.JU2585_v1.scaffolds.fa,104046868,19125796,36.01,3222,Nematodes Clade V
+Caenorhabditis_sp32,18267,5189168,Caenorhabditis sp32,-1,-1,-1,1,-1,Caenorhabditis_sp32_JU2788_v1.scaffolds.fa,65098870,12076065,46.41,2044,Nematodes Clade V
+Caenorhabditis_sp34,80311,27984065,Caenorhabditis sp34,-1,-1,-1,1,-1,Caenorhabditis_sp34_NK74SC_v710.scaffolds.fa,123008036,43205465,38.47,7,Nematodes Clade V
+Caenorhabditis_sp38,40474,11981354,Caenorhabditis sp38,-1,-1,-1,1,-1,Caenorhabditis_sp38_JU2809_v1.scaffolds.fa,100423268,25130097,34.82,4900,Nematodes Clade V
+Caenorhabditis_sp39,25404,6290987,Caenorhabditis sp39,-1,-1,-1,1,-1,Caenorhabditis_sp39_NIC564_v1.scaffolds.fa,91475856,17807648,41.92,21228,Nematodes Clade V
+Caenorhabditis_sp40,43816,12558847,Caenorhabditis sp40,-1,-1,-1,1,-1,Caenorhabditis_sp40_JU2818_v1.scaffolds.fa,101350732,27018992,41.51,3297,Nematodes Clade V
+Caenorhabditis_tropicalis,24031,6624930,Caenorhabditis tropicalis,-1,-1,-1,1,-1,caenorhabditis_tropicalis.PRJNA53597.WBPS6.genomic.fa,79321433,13251451,37.72,665,Nematodes Clade V
+Caenorhabditis_virilis,55859,16072966,Caenorhabditis virilis,-1,-1,-1,1,-1,Caenorhabditis_virilis.JU1968_v1.scaffolds.fa,93425091,27090702,33.53,7132,Nematodes Clade V
+Capitella_teleta,167938,61084230,Capitella teleta,1,1,1,1,1,Capitella_teleta.GCA_000328365.1.dna.toplevel.fa,333283208,106964403,40.36,20803,Other
+Clonorchis_sinensis,295679,128422586,Clonorchis sinensis,-1,1,-1,-1,-1,clonorchis_sinensis.PRJDA72781.WBPS6.genomic.fa,547288241,192231073,44.05,4348,Platyhelminthes
+Crassostrea_gigas,245724,80665806,Crassostrea gigas,1,1,1,1,1,Crassostrea_gigas.GCA_000297895.1.dna.toplevel.fa,557717710,181376910,33.42,7658,Other
+Culex_quinquefasciatus,478502,169804954,Culex quinquefasciatus,-1,1,-1,1,-1,Culex_quinquefasciatus.CpipJ2.dna.toplevel.fa,579057705,301496235,37.42,3172,Arthropods
+Danaus_plexippus,69558,19538659,Danaus plexippus,1,1,-1,1,1,Danaus_plexippus.DanPle_1.0.dna.toplevel.fa,272853388,38418622,31.65,13318,Arthropods
+Daphnia_pulex,66949,32066006,Daphnia pulex,1,1,1,1,1,Daphnia_pulex.GCA_000187875.1.dna.toplevel.fa,197206209,47143465,40.76,5186,Arthropods
+Dendroctonus_ponderosae,82349,23678254,Dendroctonus ponderosae,-1,1,-1,1,-1,Dendroctonus_ponderosae.GCA_000355655.1.dna.toplevel.fa,252847629,43774754,35.91,8188,Arthropods
+Dictyocaulus_viviparus,12673,3636839,Dictyocaulus viviparus,-1,-1,-1,1,-1,dictyocaulus_viviparus.PRJNA72587.WBPS6.genomic.fa,33389596,5798193,34.59,53,Nematodes Clade V
+Diploscapter_coronatus,44402,18447173,Diploscapter coronatus,-1,-1,-1,1,-1,diploscapter_coronatus.PRJDB3143.WBPS10.genomic.fa,170470382,29789921,37.3,511,Nematodes Clade V
+Dirofilaria_immitis,8264,2336932,Dirofilaria immitis,-1,1,-1,-1,-1,dirofilaria_immitis.PRJEB1797.WBPS6.genomic.fa,88309529,7173001,28.01,16061,Nematodes Clade III
+Ditylenchus_destructor,37184,8949434,Ditylenchus destructor,-1,-1,-1,-1,-1,ditylenchus_destructor.PRJNA312427.WBPS10.genomic.fa,111138200,22797778,36.84,1761,Nematodes Clade VI
+Dracunculus_medinensis,43051,15479375,Dracunculus medinensis,-1,-1,-1,-1,-1,dracunculus_medinensis.PRJEB500.WBPS6.genomic.fa,103750892,24284411,30.2,1350,Nematodes Clade III
+Drosophila_erecta,48476,27349103,Drosophila erecta,-1,1,-1,1,-1,Drosophila_erecta.GCA_000005135.1.dna.toplevel.fa,152712140,37787454,42.27,5124,Arthropods
+Drosophila_grimshawi,47279,36187964,Drosophila grimshawi,-1,1,-1,1,-1,Drosophila_grimshawi.GCA_000005155.1.dna.toplevel.fa,200467819,63962625,37.98,17440,Arthropods
+Drosophila_melanogaster,43548,26720982,Drosophila melanogaster,-1,1,-1,1,-1,Drosophila_melanogaster.BDGP6.dna.toplevel.fa,143725995,36252612,42.01,1870,Arthropods
+Drosophila_mojavensis,57102,29036631,Drosophila mojavensis,-1,1,-1,1,-1,Drosophila_mojavensis.GCA_000005175.1.dna.toplevel.fa,193826310,57860763,39.48,6841,Arthropods
+Drosophila_pseudoobscura,17098,4717452,Drosophila pseudoobscura,-1,1,-1,1,-1,Drosophila_pseudoobscura.GCA_000001765.2.dna.toplevel.fa,152696192,34706427,45.2,4790,Arthropods
+Drosophila_simulans,33033,16527326,Drosophila simulans,-1,1,-1,1,-1,Drosophila_simulans.GCA_000259055.1.dna.toplevel.fa,137828247,23885555,42.48,10005,Arthropods
+Drosophila_yakuba,71382,33879764,Drosophila yakuba,-1,1,-1,1,-1,Drosophila_yakuba.GCA_000005975.1.dna.toplevel.fa,165693946,46972028,42.28,8122,Arthropods
+Echinococcus_multilocularis,24672,10560511,Echinococcus multilocularis,-1,1,-1,-1,-1,echinococcus_multilocularis.PRJEB122.WBPS6.genomic.fa,114963242,16781738,42.21,1217,Platyhelminthes
+Echinostoma_caproni,738061,315550082,Echinostoma caproni,-1,1,-1,-1,-1,echinostoma_caproni.PRJEB1207.WBPS6.genomic.fa,834556378,414143080,42.55,86083,Platyhelminthes
+Elaeophora_elaphi,5471,1339085,Elaeophora elaphi,-1,1,-1,-1,-1,elaeophora_elaphi.PRJEB502.WBPS6.genomic.fa,82568297,4875339,31.49,8078,Nematodes Clade III
+Enterobius_vermicularis,13826,4554885,Enterobius vermicularis,-1,1,-1,-1,-1,enterobius_vermicularis.PRJEB503.WBPS6.genomic.fa,150050672,15635256,32.54,19832,Nematodes Clade VI
+Fasciola_hepatica,1078138,609612742,Fasciola hepatica,-1,1,-1,-1,-1,fasciola_hepatica.PRJEB6687.WBPS6.genomic.fa,1275107963,761661746,44.07,20158,Platyhelminthes
+Globodera_pallida,56876,13535504,Globodera pallida,-1,-1,-1,-1,-1,globodera_pallida.PRJEB123.WBPS6.genomic.fa,123625196,26729223,36.74,6873,Nematodes Clade VI
+Gongylonema_pulchrum,250615,84116736,Gongylonema pulchrum,-1,1,-1,-1,-1,gongylonema_pulchrum.PRJEB505.WBPS6.genomic.fa,322334493,142676493,41.51,128401,Nematodes Clade III
+Gyrodactylus_salaris,34106,7514712,Gyrodactylus salaris,-1,1,-1,-1,-1,gyrodactylus_salaris.PRJNA244375.WBPS10.genomic.fa,67380660,18072935,33.85,6075,Platyhelminthes
+Haemonchus_contortus,190300,81837701,Haemonchus contortus,-1,1,-1,1,-1,haemonchus_contortus.PRJEB506.WBPS6.genomic.fa,369846877,126173067,43.11,23860,Nematodes Clade V
+Haemonchus_placei,127731,49987868,Haemonchus placei,-1,1,-1,1,-1,haemonchus_placei.PRJEB509.WBPS10.genomic.fa,259125910,80028464,42.83,24923,Nematodes Clade V
+Heliconius_melpomene,161942,40260736,Heliconius melpomene,1,1,-1,1,1,Heliconius_melpomene.Hmel1.dna.toplevel.fa,273786188,97695044,32.84,4309,Arthropods
+Helobdella_robusta,90279,34920022,Helobdella robusta,1,1,1,1,1,Helobdella_robusta.GCA_000326865.1.dna.toplevel.fa,235376169,86227624,32.82,1991,Other
+Heterorhabditis_bacteriophora,12390,6918205,Heterorhabditis bacteriophora,-1,1,-1,1,-1,heterorhabditis_bacteriophora.PRJNA13977.WBPS6.genomic.fa,77007652,8863499,33.31,1263,Nematodes Clade V
+Hydatigera_taeniaeformis,12008,3657639,Hydatigera taeniaeformis,-1,1,-1,-1,-1,hydatigera_taeniaeformis.PRJEB534.WBPS6.genomic.fa,103664560,11191211,42.98,30091,Platyhelminthes
+Hymenolepis_microstoma,45346,14516379,Hymenolepis microstoma,-1,1,-1,-1,-1,hymenolepis_microstoma.PRJEB124.WBPS6.genomic.fa,182136974,24850776,35.96,3643,Platyhelminthes
+Hypsibius_dujardini,36124,9095967,Hypsibius dujardini,-1,1,-1,1,-1,Hypsibius_dujardini.dna.toplevel.fa,134961902,39065350,45.17,13202,Other
+Lepeophtheirus_salmonis,1031208,258727330,Lepeophtheirus salmonis,1,1,-1,1,1,Lepeophtheirus_salmonis.LSalAtl2s.dna.toplevel.fa,695449161,387153596,30.87,36095,Arthropods
+Lingula_anatina,121803,42015423,Lingula anatina,1,1,1,1,1,Lingula_anatina.GCA_001039355.1.dna.toplevel.fa,425494968,89933538,36.42,3830,Other
+Litomosoides_sigmodontis,2747,530362,Litomosoides sigmodontis,-1,1,-1,-1,-1,litomosoides_sigmodontis.PRJEB3075.WBPS6.genomic.fa,64813410,2908758,34.07,3165,Nematodes Clade III
+Loa_loa,16422,7501945,Loa loa,-1,-1,-1,-1,-1,loa_loa.PRJNA246086.WBPS6.genomic.fa,96405388,14390902,30.83,2250,Nematodes Clade III
+Lottia_gigantea,146914,46641171,Lottia gigantea,1,1,1,1,1,Lottia_gigantea.GCA_000327385.1.dna.toplevel.fa,359505668,84741438,33.28,4469,Other
+Lucilia_cuprina,257840,73875830,Lucilia cuprina,-1,1,-1,1,-1,Lucilia_cuprina.GCA_001187945.1.dna.toplevel.fa,434128924,138712002,29.23,1713,Arthropods
+Macrostomum_lignano,284768,137387320,Macrostomum lignano,1,1,1,1,1,macrostomum_lignano.PRJNA284736.WBPS6.genomic.fa,1040124789,330034727,45.99,49174,Platyhelminthes
+Megaselia_scalaris,413985,75460346,Megaselia scalaris,-1,-1,-1,1,-1,Megaselia_scalaris.Msca1.dna.toplevel.fa,490071573,157726207,33.54,231743,Arthropods
+Melitaea_cinxia,298667,64088331,Melitaea cinxia,1,1,-1,1,1,Melitaea_cinxia.MelCinx1.0.dna.toplevel.fa,389907520,127884802,32.57,8261,Arthropods
+Meloidogyne_incognita,34522,10057174,Meloidogyne incognita,-1,-1,-1,-1,-1,meloidogyne_incognita.PRJEA28837.WBPS6.genomic.fa,86061872,21977679,31.44,2995,Nematodes Clade VI
+Mesocestoides_corti,21932,7450330,Mesocestoides corti,-1,1,-1,-1,-1,mesocestoides_corti.PRJEB510.WBPS6.genomic.fa,117181740,13151608,41.83,7068,Platyhelminthes
+Mesorhabditis_belari,99032,28113033,Mesorhabditis belari,-1,1,-1,1,-1,Mesorhabditis_belari.JU2817_v2.scaffolds.fa,162071050,57358427,36.96,16312,Nematodes Clade V
+Mnemiopsis_leidyi,58148,17804226,Mnemiopsis leidyi,1,1,1,1,1,Mnemiopsis_leidyi.GCA_000226015.1.dna.toplevel.fa,155875873,38159968,38.86,5101,Other
+Nasonia_vitripennis,92749,38938321,Nasonia vitripennis,1,1,1,1,1,Nasonia_vitripennis.GCA_000002325.2.dna.toplevel.fa,295780872,72069522,41.71,6098,Arthropods
+Necator_americanus,85650,31954661,Necator americanus,-1,1,-1,1,-1,necator_americanus.PRJNA72135.WBPS6.genomic.fa,244075060,64565519,40.22,11864,Nematodes Clade V
+Nematostella_vectensis,166177,54462503,Nematostella vectensis,1,1,1,1,1,Nematostella_vectensis.GCA_000209225.1.dna.toplevel.fa,356613585,109435425,40.64,10804,Other
+Nippostrongylus_brasiliensis,155444,54445064,Nippostrongylus brasiliensis,-1,1,-1,1,-1,nippostrongylus_brasiliensis.PRJEB511.WBPS6.genomic.fa,294400206,109216680,42.74,29375,Nematodes Clade V
+Oesophagostomum_dentatum,180721,56894778,Oesophagostomum dentatum,-1,1,-1,1,-1,oesophagostomum_dentatum.PRJNA72579.WBPS6.genomic.fa,489973581,158093059,41.39,99770,Nematodes Clade V
+Onchocerca_volvulus,16859,5824765,Onchocerca volvulus,-1,1,-1,-1,-1,onchocerca_volvulus.PRJEB513.WBPS6.genomic.fa,96427779,11335793,29.19,708,Nematodes Clade III
+Opisthorchis_viverrini,338595,132915935,Opisthorchis viverrini,-1,1,-1,-1,-1,opisthorchis_viverrini.PRJNA222628.WBPS6.genomic.fa,620452578,203766719,43.79,42216,Platyhelminthes
+Oscheius_tipulae,8268,2627608,Oscheius tipulae,-1,1,-1,1,-1,Oscheinus_tipulae.2.0.fa,59468623,6588816,44.53,191,Nematodes Clade V
+Panagrellus_redivivus,9541,2995232,Panagrellus redivivus,-1,-1,-1,-1,-1,panagrellus_redivivus.PRJNA186477.WBPS6.genomic.fa,65093147,7160910,44.25,940,Nematodes Clade VI
+Parastrongyloides_trichosuri,2939,1023624,Parastrongyloides trichosuri,-1,-1,-1,-1,-1,parastrongyloides_trichosuri.PRJEB515.WBPS6.genomic.fa,42486966,2938678,28.25,1810,Nematodes Clade VI
+Pediculus_humanus,21489,4530460,Pediculus humanus,1,1,-1,1,1,Pediculus_humanus.PhumU2.dna.toplevel.fa,110804242,30233140,27.47,1900,Arthropods
+Plectus_sambesii,27289,10507768,Plectus sambesii,1,1,-1,1,1,plectus_sambesii.fa,117394928,22623111,48.4,12291,Other
+Poikilolaimus_oxycercus,30542,11550970,Poikilolaimus oxycercus,-1,1,-1,1,-1,poikilolaimus_oxycercus.fa,115482131,26556474,45.89,18184,Nematodes Clade V
+Pristionchus_exspectatus,36482,10904859,Pristionchus exspectatus,-1,-1,-1,1,-1,pristionchus_exspectatus.PRJEB6009.WBPS6.genomic.fa,177635997,31712802,42.75,4412,Nematodes Clade V
+Pristionchus_pacificus,43734,17208519,Pristionchus pacificus,-1,1,-1,1,-1,pristionchus_pacificus.PRJNA12644.WBPS6.genomic.fa,172494865,38066370,42.82,18083,Nematodes Clade V
+Protopolystoma_xenopodis,611221,195711682,Protopolystoma xenopodis,-1,1,-1,-1,-1,protopolystoma_xenopodis.PRJEB1201.WBPS6.genomic.fa,617344661,297372848,37.72,316398,Platyhelminthes
+Rhabditophanes_kr3021,6365,2064221,Rhabditophanes kr3021,-1,-1,-1,-1,-1,rhabditophanes_kr3021.PRJEB1297.WBPS6.genomic.fa,47267908,3920517,32.04,471,Nematodes Clade VI
+Rhodnius_prolixus,375572,139791116,Rhodnius prolixus,1,1,-1,1,1,Rhodnius_prolixus.RproC1.dna.toplevel.fa,702642977,209268435,33.95,27870,Arthropods
+Romanomermis_culicivorax,241203,67473705,Romanomermis culicivorax,1,1,1,-1,1,romanomermis_culicivorax.PRJEB1358.WBPS6.genomic.fa,322765761,152452635,36.27,62537,Nematodes Clade I
+Sarcoptes_scabiei,3252,622882,Sarcoptes scabiei,1,1,-1,-1,1,Sarcoptes_scabiei.SscaA1.dna.toplevel.fa,56262437,7149978,33.26,18860,Arthropods
+Schistocephalus_solidus,451545,216150688,Schistocephalus solidus,-1,1,-1,-1,-1,schistocephalus_solidus.PRJEB527.WBPS6.genomic.fa,539424504,280113736,43.04,56778,Platyhelminthes
+Schistosoma_haematobium,370444,122558909,Schistosoma haematobium,-1,1,-1,-1,-1,schistosoma_haematobium.PRJNA78265.WBPS6.genomic.fa,385110549,181824033,34.26,99953,Platyhelminthes
+Schistosoma_japonicum,334824,136796561,Schistosoma japonicum,-1,1,-1,-1,-1,schistosoma_japonicum.PRJEA34885.WBPS6.genomic.fa,402743189,190285603,34.08,25048,Platyhelminthes
+Schistosoma_mansoni,330123,137648662,Schistosoma mansoni,-1,1,-1,-1,-1,schistosoma_mansoni.PRJEA36577.WBPS6.genomic.fa,364538298,193195106,35.21,885,Platyhelminthes
+Schmidtea_mediterranea,735683,261291486,Schmidtea mediterranea,-1,1,-1,1,-1,Schmidtea_mediterranea.dna.toplevel.fa,787457850,390011928,29.37,15334,Platyhelminthes
+Soboliphyme_baturini,165051,63186155,Soboliphyme baturini,-1,1,1,-1,1,soboliphyme_baturini.PRJEB516.WBPS6.genomic.fa,218332512,83615217,41.46,22336,Nematodes Clade I
+Solenopsis_invicta,191747,65368829,Solenopsis invicta,1,1,1,1,1,Solenopsis_invicta.GCA_000188075.1.dna.toplevel.fa,396024718,133575124,36.22,69511,Arthropods
+Spirometra_erinaceieuropaei,1156288,388752684,Spirometra erinaceieuropaei,-1,1,-1,-1,-1,spirometra_erinaceieuropaei.PRJEB1202.WBPS6.genomic.fa,1258717181,568057112,44.87,482396,Platyhelminthes
+Steinernema_carpocapsae,12217,3056693,Steinernema carpocapsae,-1,1,-1,-1,-1,steinernema_carpocapsae.PRJNA202318.WBPS6.genomic.fa,86127942,9240466,45.53,1578,Nematodes Clade VI
+Steinernema_scapterisci,5185,1356688,Steinernema scapterisci,-1,1,-1,-1,-1,steinernema_scapterisci.PRJNA204942.WBPS6.genomic.fa,79776474,4841350,47.98,2877,Nematodes Clade VI
+Strigamia_maritima,105592,53262653,Strigamia maritima,1,1,1,1,1,Strigamia_maritima.Smar1.dna.toplevel.fa,176210797,80599702,35.65,14739,Arthropods
+Strongylocentrotus_purpuratus,501892,142558043,Strongylocentrotus purpuratus,1,1,1,1,1,Strongylocentrotus_purpuratus.GCA_000002235.2.dna.toplevel.fa,936564995,316725466,37.01,32008,Other
+Strongyloides_ratti,3889,2197458,Strongyloides ratti,-1,-1,-1,-1,-1,strongyloides_ratti.PRJEB125.WBPS6.genomic.fa,43150242,5067157,21.43,135,Nematodes Clade VI
+Strongyloides_venezuelensis,9932,5540955,Strongyloides venezuelensis,-1,-1,-1,-1,-1,strongyloides_venezuelensis.PRJEB530.WBPS10.genomic.fa,52178999,10478855,25.08,587,Nematodes Clade VI
+Strongylus_vulgaris,127811,36835274,Strongylus vulgaris,-1,1,-1,1,-1,strongylus_vulgaris.PRJEB531.WBPS10.genomic.fa,291096078,68884549,37.88,167310,Nematodes Clade V
+Syphacia_muris,3120,724273,Syphacia muris,-1,1,-1,-1,-1,syphacia_muris.PRJEB524.WBPS6.genomic.fa,99093317,4690569,30.92,3879,Nematodes Clade VI
+Taenia_asiatica,78583,42393887,Taenia asiatica,-1,1,-1,-1,-1,taenia_asiatica.PRJNA299871.WBPS10.genomic.fa,168679183,60775070,43.15,6900,Platyhelminthes
+Taenia_saginata,83659,43899972,Taenia saginata,-1,1,-1,-1,-1,taenia_saginata.PRJNA71493.WBPS10.genomic.fa,169104283,63301337,43.19,3626,Platyhelminthes
+Teladorsagia_circumcincta,340380,124339957,Teladorsagia circumcincta,-1,1,-1,1,-1,teladorsagia_circumcincta.PRJNA72569.WBPS6.genomic.fa,700614188,282614503,44.78,81734,Nematodes Clade V
+Tetranychus_urticae,16685,7633424,Tetranychus urticae,1,-1,1,1,1,Tetranychus_urticae.GCA_000239435.1.dna.toplevel.fa,90815494,12986894,32.25,640,Arthropods
+Thelazia_callipaeda,5345,1850104,Thelazia callipaeda,-1,1,-1,-1,-1,thelazia_callipaeda.PRJEB1205.WBPS6.genomic.fa,75392092,4191769,29.95,5778,Nematodes Clade III
+Thelohanellus_kitauei,72415,33937411,Thelohanellus kitauei,-1,-1,-1,1,-1,Thelohanellus_kitauei.ASM82789v1.dna.toplevel.fa,150348159,46229113,31.23,5757,Other
+Toxocara_canis,36494,12738285,Toxocara canis,-1,1,-1,-1,-1,toxocara_canis.PRJEB533.WBPS6.genomic.fa,299788016,34458600,40.12,29185,Nematodes Clade III
+Tribolium_castaneum,72977,21561052,Tribolium castaneum,1,1,-1,1,1,Tribolium_castaneum.Tcas3.dna.toplevel.fa,228746138,46148472,33.86,11,Arthropods
+Trichinella_nelsoni,13918,6643024,Trichinella nelsoni,-1,1,1,-1,1,trichinella_nelsoni.PRJNA257433.WBPS10.genomic.fa,47436005,9564539,33.49,2969,Nematodes Clade I
+Trichinella_pseudospiralis,15608,6769174,Trichinella pseudospiralis,-1,1,1,-1,1,trichinella_pseudospiralis.ISS176_PRJNA257433.WBPS10.genomic.fa,49152658,10379506,32.57,6594,Nematodes Clade I
+Trichinella_spiralis,20256,11438841,Trichinella spiralis,-1,1,1,-1,1,trichinella_spiralis.PRJNA12603.WBPS6.genomic.fa,63525422,15027067,33.91,6863,Nematodes Clade I
+Trichobilharzia_regenti,925413,271128119,Trichobilharzia regenti,-1,1,-1,-1,-1,trichobilharzia_regenti.PRJEB4662.WBPS6.genomic.fa,701762036,387487182,37.43,188369,Platyhelminthes
+Trichoplax_adhaerens,6233,2191400,Trichoplax adhaerens,-1,1,-1,-1,-1,Trichoplax_adhaerens.ASM15027v1.dna.toplevel.fa,105631681,7591861,32.74,1414,Other
+Trichuris_muris,48270,21155561,Trichuris muris,-1,1,1,-1,1,trichuris_muris.PRJEB126.WBPS6.genomic.fa,84405302,29372990,44.79,1683,Nematodes Clade I
+Trichuris_suis,24951,8943897,Trichuris suis,-1,1,1,-1,1,trichuris_suis.PRJNA179528.WBPS6.genomic.fa,63839715,15488492,43.31,306,Nematodes Clade I
+Wuchereria_bancrofti,7024,1875246,Wuchereria bancrofti,-1,1,-1,-1,-1,wuchereria_bancrofti.PRJNA275548.WBPS10.genomic.fa,90325107,8160938,29.12,5105,Nematodes Clade III
+Zootermopsis_nevadensis,274289,63144259,Zootermopsis nevadensis,1,1,1,1,1,Zootermopsis_nevadensis.GCA_000696155.1.dna.toplevel.fa,485009472,128852937,38.18,31662,Arthropods

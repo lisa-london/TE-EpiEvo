@@ -1,0 +1,835 @@
+Species,variable,value,label,EpiState,EpiVal,Color,variable_fac
+Acanthocheilonema viteae,Singletons,8,A  viteae,DNMT,absent,DNMTabsent,Singletons
+Acyrthosiphon pisum,Singletons,461,A  pisum,DNMT,present,DNMTpresent,Singletons
+Amphimedon queenslandica,Singletons,476,A  queenslandica,DNMT,present,DNMTpresent,Singletons
+Ancylostoma caninum,Singletons,13,A  caninum,DNMT,absent,DNMTabsent,Singletons
+Ancylostoma ceylanicum,Singletons,16,A  ceylanicum,DNMT,absent,DNMTabsent,Singletons
+Anopheles darlingi,Singletons,31,A  darlingi,DNMT,absent,DNMTabsent,Singletons
+Anopheles gambiae,Singletons,270,A  gambiae,DNMT,absent,DNMTabsent,Singletons
+Apis mellifera,Singletons,20,A  mellifera,DNMT,present,DNMTpresent,Singletons
+Atta cephalotes,Singletons,88,A  cephalotes,DNMT,present,DNMTpresent,Singletons
+Belgica antarctica,Singletons,54,B  antarctica,DNMT,present,DNMTpresent,Singletons
+Bombus impatiens,Singletons,115,B  impatiens,DNMT,present,DNMTpresent,Singletons
+Bombyx mori,Singletons,177,B  mori,DNMT,present,DNMTpresent,Singletons
+Brugia malayi,Singletons,7,B  malayi,DNMT,absent,DNMTabsent,Singletons
+Bursaphelenchus xylophilus,Singletons,112,B  xylophilus,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis afra,Singletons,36,C  afra,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis angaria,Singletons,17,C  angaria,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis brenneri,Singletons,76,C  brenneri,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis briggsae,Singletons,50,C  briggsae,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis castelli,Singletons,13,C  castelli,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis doughertyi,Singletons,76,C  doughertyi,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis elegans,Singletons,62,C  elegans,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis japonica,Singletons,185,C  japonica,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis kamaaina,Singletons,40,C  kamaaina,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis latens,Singletons,5,C  latens,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis monodelphis,Singletons,170,C  monodelphis,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis nouraguensis,Singletons,10,C  nouraguensis,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis plicata,Singletons,213,C  plicata,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis remanei,Singletons,3,C  remanei,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis sinica,Singletons,53,C  sinica,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis sp21,Singletons,107,C  sp21,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis sp26,Singletons,32,C  sp26,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis sp28,Singletons,25,C  sp28,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis sp29,Singletons,9,C  sp29,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis sp31,Singletons,88,C  sp31,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis sp32,Singletons,57,C  sp32,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis sp34,Singletons,97,C  sp34,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis sp38,Singletons,94,C  sp38,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis sp39,Singletons,21,C  sp39,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis tropicalis,Singletons,17,C  tropicalis,DNMT,absent,DNMTabsent,Singletons
+Caenorhabditis virilis,Singletons,107,C  virilis,DNMT,absent,DNMTabsent,Singletons
+Capitella teleta,Singletons,739,C  teleta,DNMT,present,DNMTpresent,Singletons
+Clonorchis sinensis,Singletons,6,C  sinensis,DNMT,absent,DNMTabsent,Singletons
+Crassostrea gigas,Singletons,458,C  gigas,DNMT,present,DNMTpresent,Singletons
+Culex quinquefasciatus,Singletons,406,C  quinquefasciatus,DNMT,absent,DNMTabsent,Singletons
+Danaus plexippus,Singletons,42,D  plexippus,DNMT,present,DNMTpresent,Singletons
+Daphnia pulex,Singletons,400,D  pulex,DNMT,present,DNMTpresent,Singletons
+Dendroctonus ponderosae,Singletons,256,D  ponderosae,DNMT,absent,DNMTabsent,Singletons
+Dictyocaulus viviparus,Singletons,5,D  viviparus,DNMT,absent,DNMTabsent,Singletons
+Diploscapter coronatus,Singletons,123,D  coronatus,DNMT,absent,DNMTabsent,Singletons
+Dirofilaria immitis,Singletons,5,D  immitis,DNMT,absent,DNMTabsent,Singletons
+Ditylenchus destructor,Singletons,148,D  destructor,DNMT,absent,DNMTabsent,Singletons
+Dracunculus medinensis,Singletons,52,D  medinensis,DNMT,absent,DNMTabsent,Singletons
+Drosophila erecta,Singletons,22,D  erecta,DNMT,absent,DNMTabsent,Singletons
+Drosophila grimshawi,Singletons,66,D  grimshawi,DNMT,absent,DNMTabsent,Singletons
+Drosophila melanogaster,Singletons,7,D  melanogaster,DNMT,absent,DNMTabsent,Singletons
+Drosophila mojavensis,Singletons,80,D  mojavensis,DNMT,absent,DNMTabsent,Singletons
+Drosophila pseudoobscura,Singletons,147,D  pseudoobscura,DNMT,absent,DNMTabsent,Singletons
+Drosophila simulans,Singletons,6,D  simulans,DNMT,absent,DNMTabsent,Singletons
+Drosophila yakuba,Singletons,53,D  yakuba,DNMT,absent,DNMTabsent,Singletons
+Echinococcus multilocularis,Singletons,10,E  multilocularis,DNMT,absent,DNMTabsent,Singletons
+Echinostoma caproni,Singletons,223,E  caproni,DNMT,absent,DNMTabsent,Singletons
+Elaeophora elaphi,Singletons,2,E  elaphi,DNMT,absent,DNMTabsent,Singletons
+Enterobius vermicularis,Singletons,38,E  vermicularis,DNMT,absent,DNMTabsent,Singletons
+Fasciola hepatica,Singletons,140,F  hepatica,DNMT,absent,DNMTabsent,Singletons
+Globodera pallida,Singletons,206,G  pallida,DNMT,absent,DNMTabsent,Singletons
+Gongylonema pulchrum,Singletons,227,G  pulchrum,DNMT,absent,DNMTabsent,Singletons
+Gyrodactylus salaris,Singletons,287,G  salaris,DNMT,absent,DNMTabsent,Singletons
+Haemonchus contortus,Singletons,3,H  contortus,DNMT,absent,DNMTabsent,Singletons
+Haemonchus placei,Singletons,4,H  placei,DNMT,absent,DNMTabsent,Singletons
+Heliconius melpomene,Singletons,86,H  melpomene,DNMT,present,DNMTpresent,Singletons
+Helobdella robusta,Singletons,187,H  robusta,DNMT,present,DNMTpresent,Singletons
+Heterorhabditis bacteriophora,Singletons,31,H  bacteriophora,DNMT,absent,DNMTabsent,Singletons
+Hydatigera taeniaeformis,Singletons,51,H  taeniaeformis,DNMT,absent,DNMTabsent,Singletons
+Hymenolepis microstoma,Singletons,110,H  microstoma,DNMT,absent,DNMTabsent,Singletons
+Hypsibius dujardini,Singletons,233,H  dujardini,DNMT,absent,DNMTabsent,Singletons
+Lepeophtheirus salmonis,Singletons,1125,L  salmonis,DNMT,present,DNMTpresent,Singletons
+Lingula anatina,Singletons,256,L  anatina,DNMT,present,DNMTpresent,Singletons
+Litomosoides sigmodontis,Singletons,3,L  sigmodontis,DNMT,absent,DNMTabsent,Singletons
+Loa loa,Singletons,14,L  loa,DNMT,absent,DNMTabsent,Singletons
+Lottia gigantea,Singletons,239,L  gigantea,DNMT,present,DNMTpresent,Singletons
+Lucilia cuprina,Singletons,300,L  cuprina,DNMT,absent,DNMTabsent,Singletons
+Macrostomum lignano,Singletons,193,M  lignano,DNMT,present,DNMTpresent,Singletons
+Megaselia scalaris,Singletons,542,M  scalaris,DNMT,absent,DNMTabsent,Singletons
+Melitaea cinxia,Singletons,152,M  cinxia,DNMT,present,DNMTpresent,Singletons
+Meloidogyne incognita,Singletons,110,M  incognita,DNMT,absent,DNMTabsent,Singletons
+Mesocestoides corti,Singletons,61,M  corti,DNMT,absent,DNMTabsent,Singletons
+Mesorhabditis belari,Singletons,376,M  belari,DNMT,absent,DNMTabsent,Singletons
+Mnemiopsis leidyi,Singletons,463,M  leidyi,DNMT,present,DNMTpresent,Singletons
+Nasonia vitripennis,Singletons,403,N  vitripennis,DNMT,present,DNMTpresent,Singletons
+Necator americanus,Singletons,51,N  americanus,DNMT,absent,DNMTabsent,Singletons
+Nematostella vectensis,Singletons,606,N  vectensis,DNMT,present,DNMTpresent,Singletons
+Nippostrongylus brasiliensis,Singletons,236,N  brasiliensis,DNMT,absent,DNMTabsent,Singletons
+Oesophagostomum dentatum,Singletons,185,O  dentatum,DNMT,absent,DNMTabsent,Singletons
+Onchocerca volvulus,Singletons,17,O  volvulus,DNMT,absent,DNMTabsent,Singletons
+Opisthorchis viverrini,Singletons,7,O  viverrini,DNMT,absent,DNMTabsent,Singletons
+Panagrellus redivivus,Singletons,102,P  redivivus,DNMT,absent,DNMTabsent,Singletons
+Parastrongyloides trichosuri,Singletons,10,P  trichosuri,DNMT,absent,DNMTabsent,Singletons
+Pediculus humanus,Singletons,18,P  humanus,DNMT,present,DNMTpresent,Singletons
+Plectus sambesii,Singletons,216,P  sambesii,DNMT,present,DNMTpresent,Singletons
+Poikilolaimus oxycercus,Singletons,235,P  oxycercus,DNMT,absent,DNMTabsent,Singletons
+Pristionchus exspectatus,Singletons,2,P  exspectatus,DNMT,absent,DNMTabsent,Singletons
+Pristionchus pacificus,Singletons,11,P  pacificus,DNMT,absent,DNMTabsent,Singletons
+Protopolystoma xenopodis,Singletons,74,P  xenopodis,DNMT,absent,DNMTabsent,Singletons
+Rhodnius prolixus,Singletons,243,R  prolixus,DNMT,present,DNMTpresent,Singletons
+Romanomermis culicivorax,Singletons,691,R  culicivorax,DNMT,present,DNMTpresent,Singletons
+Sarcoptes scabiei,Singletons,4,S  scabiei,DNMT,present,DNMTpresent,Singletons
+Schistocephalus solidus,Singletons,14,S  solidus,DNMT,absent,DNMTabsent,Singletons
+Schistosoma haematobium,Singletons,11,S  haematobium,DNMT,absent,DNMTabsent,Singletons
+Schistosoma japonicum,Singletons,84,S  japonicum,DNMT,absent,DNMTabsent,Singletons
+Schistosoma mansoni,Singletons,6,S  mansoni,DNMT,absent,DNMTabsent,Singletons
+Schmidtea mediterranea,Singletons,929,S  mediterranea,DNMT,absent,DNMTabsent,Singletons
+Soboliphyme baturini,Singletons,188,S  baturini,DNMT,present,DNMTpresent,Singletons
+Solenopsis invicta,Singletons,155,S  invicta,DNMT,present,DNMTpresent,Singletons
+Spirometra erinaceieuropaei,Singletons,46,S  erinaceieuropaei,DNMT,absent,DNMTabsent,Singletons
+Steinernema carpocapsae,Singletons,50,S  carpocapsae,DNMT,absent,DNMTabsent,Singletons
+Steinernema scapterisci,Singletons,4,S  scapterisci,DNMT,absent,DNMTabsent,Singletons
+Strigamia maritima,Singletons,391,S  maritima,DNMT,present,DNMTpresent,Singletons
+Strongylocentrotus purpuratus,Singletons,555,S  purpuratus,DNMT,present,DNMTpresent,Singletons
+Strongyloides ratti,Singletons,5,S  ratti,DNMT,absent,DNMTabsent,Singletons
+Strongyloides venezuelensis,Singletons,39,S  venezuelensis,DNMT,absent,DNMTabsent,Singletons
+Strongylus vulgaris,Singletons,171,S  vulgaris,DNMT,absent,DNMTabsent,Singletons
+Syphacia muris,Singletons,11,S  muris,DNMT,absent,DNMTabsent,Singletons
+Taenia asiatica,Singletons,3,T  asiatica,DNMT,absent,DNMTabsent,Singletons
+Taenia saginata,Singletons,3,T  saginata,DNMT,absent,DNMTabsent,Singletons
+Teladorsagia circumcincta,Singletons,100,T  circumcincta,DNMT,absent,DNMTabsent,Singletons
+Tetranychus urticae,Singletons,100,T  urticae,DNMT,present,DNMTpresent,Singletons
+Thelazia callipaeda,Singletons,9,T  callipaeda,DNMT,absent,DNMTabsent,Singletons
+Thelohanellus kitauei,Singletons,258,T  kitauei,DNMT,absent,DNMTabsent,Singletons
+Toxocara canis,Singletons,96,T  canis,DNMT,absent,DNMTabsent,Singletons
+Tribolium castaneum,Singletons,256,T  castaneum,DNMT,present,DNMTpresent,Singletons
+Trichinella nelsoni,Singletons,2,T  nelsoni,DNMT,present,DNMTpresent,Singletons
+Trichinella pseudospiralis,Singletons,24,T  pseudospiralis,DNMT,present,DNMTpresent,Singletons
+Trichinella spiralis,Singletons,8,T  spiralis,DNMT,present,DNMTpresent,Singletons
+Trichobilharzia regenti,Singletons,231,T  regenti,DNMT,absent,DNMTabsent,Singletons
+Trichoplax adhaerens,Singletons,46,T  adhaerens,DNMT,absent,DNMTabsent,Singletons
+Trichuris muris,Singletons,67,T  muris,DNMT,present,DNMTpresent,Singletons
+Trichuris suis,Singletons,78,T  suis,DNMT,present,DNMTpresent,Singletons
+Wuchereria bancrofti,Singletons,1,W  bancrofti,DNMT,absent,DNMTabsent,Singletons
+Zootermopsis nevadensis,Singletons,230,Z  nevadensis,DNMT,present,DNMTpresent,Singletons
+Acanthocheilonema viteae,Degree,1085,A  viteae,DNMT,absent,DNMTabsent,Degree
+Acyrthosiphon pisum,Degree,4261,A  pisum,DNMT,present,DNMTpresent,Degree
+Amphimedon queenslandica,Degree,2137,A  queenslandica,DNMT,present,DNMTpresent,Degree
+Ancylostoma caninum,Degree,4104,A  caninum,DNMT,absent,DNMTabsent,Degree
+Ancylostoma ceylanicum,Degree,3796,A  ceylanicum,DNMT,absent,DNMTabsent,Degree
+Anopheles darlingi,Degree,1270,A  darlingi,DNMT,absent,DNMTabsent,Degree
+Anopheles gambiae,Degree,2337,A  gambiae,DNMT,absent,DNMTabsent,Degree
+Apis mellifera,Degree,1756,A  mellifera,DNMT,present,DNMTpresent,Degree
+Atta cephalotes,Degree,3414,A  cephalotes,DNMT,present,DNMTpresent,Degree
+Belgica antarctica,Degree,1059,B  antarctica,DNMT,present,DNMTpresent,Degree
+Bombus impatiens,Degree,2075,B  impatiens,DNMT,present,DNMTpresent,Degree
+Bombyx mori,Degree,3282,B  mori,DNMT,present,DNMTpresent,Degree
+Brugia malayi,Degree,1223,B  malayi,DNMT,absent,DNMTabsent,Degree
+Bursaphelenchus xylophilus,Degree,1270,B  xylophilus,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis afra,Degree,2581,C  afra,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis angaria,Degree,2627,C  angaria,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis brenneri,Degree,3446,C  brenneri,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis briggsae,Degree,3129,C  briggsae,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis castelli,Degree,2616,C  castelli,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis doughertyi,Degree,3589,C  doughertyi,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis elegans,Degree,2633,C  elegans,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis japonica,Degree,3494,C  japonica,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis kamaaina,Degree,2669,C  kamaaina,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis latens,Degree,3135,C  latens,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis monodelphis,Degree,1974,C  monodelphis,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis nouraguensis,Degree,2417,C  nouraguensis,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis plicata,Degree,1923,C  plicata,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis remanei,Degree,3485,C  remanei,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis sinica,Degree,3594,C  sinica,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis sp21,Degree,1668,C  sp21,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis sp26,Degree,3311,C  sp26,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis sp28,Degree,2506,C  sp28,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis sp29,Degree,2666,C  sp29,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis sp31,Degree,2218,C  sp31,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis sp32,Degree,2596,C  sp32,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis sp34,Degree,2779,C  sp34,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis sp38,Degree,2431,C  sp38,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis sp39,Degree,2778,C  sp39,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis tropicalis,Degree,2652,C  tropicalis,DNMT,absent,DNMTabsent,Degree
+Caenorhabditis virilis,Degree,2428,C  virilis,DNMT,absent,DNMTabsent,Degree
+Capitella teleta,Degree,3243,C  teleta,DNMT,present,DNMTpresent,Degree
+Clonorchis sinensis,Degree,2510,C  sinensis,DNMT,absent,DNMTabsent,Degree
+Crassostrea gigas,Degree,3159,C  gigas,DNMT,present,DNMTpresent,Degree
+Culex quinquefasciatus,Degree,2732,C  quinquefasciatus,DNMT,absent,DNMTabsent,Degree
+Danaus plexippus,Degree,2443,D  plexippus,DNMT,present,DNMTpresent,Degree
+Daphnia pulex,Degree,2297,D  pulex,DNMT,present,DNMTpresent,Degree
+Dendroctonus ponderosae,Degree,2719,D  ponderosae,DNMT,absent,DNMTabsent,Degree
+Dictyocaulus viviparus,Degree,479,D  viviparus,DNMT,absent,DNMTabsent,Degree
+Diploscapter coronatus,Degree,1488,D  coronatus,DNMT,absent,DNMTabsent,Degree
+Dirofilaria immitis,Degree,1114,D  immitis,DNMT,absent,DNMTabsent,Degree
+Ditylenchus destructor,Degree,1418,D  destructor,DNMT,absent,DNMTabsent,Degree
+Dracunculus medinensis,Degree,1116,D  medinensis,DNMT,absent,DNMTabsent,Degree
+Drosophila erecta,Degree,2584,D  erecta,DNMT,absent,DNMTabsent,Degree
+Drosophila grimshawi,Degree,1537,D  grimshawi,DNMT,absent,DNMTabsent,Degree
+Drosophila melanogaster,Degree,2472,D  melanogaster,DNMT,absent,DNMTabsent,Degree
+Drosophila mojavensis,Degree,2180,D  mojavensis,DNMT,absent,DNMTabsent,Degree
+Drosophila pseudoobscura,Degree,1845,D  pseudoobscura,DNMT,absent,DNMTabsent,Degree
+Drosophila simulans,Degree,2365,D  simulans,DNMT,absent,DNMTabsent,Degree
+Drosophila yakuba,Degree,2963,D  yakuba,DNMT,absent,DNMTabsent,Degree
+Echinococcus multilocularis,Degree,1443,E  multilocularis,DNMT,absent,DNMTabsent,Degree
+Echinostoma caproni,Degree,3714,E  caproni,DNMT,absent,DNMTabsent,Degree
+Elaeophora elaphi,Degree,1097,E  elaphi,DNMT,absent,DNMTabsent,Degree
+Enterobius vermicularis,Degree,1373,E  vermicularis,DNMT,absent,DNMTabsent,Degree
+Fasciola hepatica,Degree,3837,F  hepatica,DNMT,absent,DNMTabsent,Degree
+Globodera pallida,Degree,1697,G  pallida,DNMT,absent,DNMTabsent,Degree
+Gongylonema pulchrum,Degree,2001,G  pulchrum,DNMT,absent,DNMTabsent,Degree
+Gyrodactylus salaris,Degree,1064,G  salaris,DNMT,absent,DNMTabsent,Degree
+Haemonchus contortus,Degree,3386,H  contortus,DNMT,absent,DNMTabsent,Degree
+Haemonchus placei,Degree,3032,H  placei,DNMT,absent,DNMTabsent,Degree
+Heliconius melpomene,Degree,2280,H  melpomene,DNMT,present,DNMTpresent,Degree
+Helobdella robusta,Degree,2569,H  robusta,DNMT,present,DNMTpresent,Degree
+Heterorhabditis bacteriophora,Degree,1093,H  bacteriophora,DNMT,absent,DNMTabsent,Degree
+Hydatigera taeniaeformis,Degree,1119,H  taeniaeformis,DNMT,absent,DNMTabsent,Degree
+Hymenolepis microstoma,Degree,919,H  microstoma,DNMT,absent,DNMTabsent,Degree
+Hypsibius dujardini,Degree,1267,H  dujardini,DNMT,absent,DNMTabsent,Degree
+Lepeophtheirus salmonis,Degree,3782,L  salmonis,DNMT,present,DNMTpresent,Degree
+Lingula anatina,Degree,2435,L  anatina,DNMT,present,DNMTpresent,Degree
+Litomosoides sigmodontis,Degree,940,L  sigmodontis,DNMT,absent,DNMTabsent,Degree
+Loa loa,Degree,1315,L  loa,DNMT,absent,DNMTabsent,Degree
+Lottia gigantea,Degree,2682,L  gigantea,DNMT,present,DNMTpresent,Degree
+Lucilia cuprina,Degree,3597,L  cuprina,DNMT,absent,DNMTabsent,Degree
+Macrostomum lignano,Degree,4026,M  lignano,DNMT,present,DNMTpresent,Degree
+Megaselia scalaris,Degree,3051,M  scalaris,DNMT,absent,DNMTabsent,Degree
+Melitaea cinxia,Degree,3620,M  cinxia,DNMT,present,DNMTpresent,Degree
+Meloidogyne incognita,Degree,1580,M  incognita,DNMT,absent,DNMTabsent,Degree
+Mesocestoides corti,Degree,887,M  corti,DNMT,absent,DNMTabsent,Degree
+Mesorhabditis belari,Degree,3185,M  belari,DNMT,absent,DNMTabsent,Degree
+Mnemiopsis leidyi,Degree,1738,M  leidyi,DNMT,present,DNMTpresent,Degree
+Nasonia vitripennis,Degree,2912,N  vitripennis,DNMT,present,DNMTpresent,Degree
+Necator americanus,Degree,2288,N  americanus,DNMT,absent,DNMTabsent,Degree
+Nematostella vectensis,Degree,3007,N  vectensis,DNMT,present,DNMTpresent,Degree
+Nippostrongylus brasiliensis,Degree,3231,N  brasiliensis,DNMT,absent,DNMTabsent,Degree
+Oesophagostomum dentatum,Degree,3534,O  dentatum,DNMT,absent,DNMTabsent,Degree
+Onchocerca volvulus,Degree,1258,O  volvulus,DNMT,absent,DNMTabsent,Degree
+Opisthorchis viverrini,Degree,2499,O  viverrini,DNMT,absent,DNMTabsent,Degree
+Panagrellus redivivus,Degree,1172,P  redivivus,DNMT,absent,DNMTabsent,Degree
+Parastrongyloides trichosuri,Degree,677,P  trichosuri,DNMT,absent,DNMTabsent,Degree
+Pediculus humanus,Degree,1415,P  humanus,DNMT,present,DNMTpresent,Degree
+Plectus sambesii,Degree,1780,P  sambesii,DNMT,present,DNMTpresent,Degree
+Poikilolaimus oxycercus,Degree,1577,P  oxycercus,DNMT,absent,DNMTabsent,Degree
+Pristionchus exspectatus,Degree,1940,P  exspectatus,DNMT,absent,DNMTabsent,Degree
+Pristionchus pacificus,Degree,1929,P  pacificus,DNMT,absent,DNMTabsent,Degree
+Protopolystoma xenopodis,Degree,1164,P  xenopodis,DNMT,absent,DNMTabsent,Degree
+Rhodnius prolixus,Degree,3719,R  prolixus,DNMT,present,DNMTpresent,Degree
+Romanomermis culicivorax,Degree,3046,R  culicivorax,DNMT,present,DNMTpresent,Degree
+Sarcoptes scabiei,Degree,1032,S  scabiei,DNMT,present,DNMTpresent,Degree
+Schistocephalus solidus,Degree,2103,S  solidus,DNMT,absent,DNMTabsent,Degree
+Schistosoma haematobium,Degree,2324,S  haematobium,DNMT,absent,DNMTabsent,Degree
+Schistosoma japonicum,Degree,2167,S  japonicum,DNMT,absent,DNMTabsent,Degree
+Schistosoma mansoni,Degree,2209,S  mansoni,DNMT,absent,DNMTabsent,Degree
+Schmidtea mediterranea,Degree,4344,S  mediterranea,DNMT,absent,DNMTabsent,Degree
+Soboliphyme baturini,Degree,1288,S  baturini,DNMT,present,DNMTpresent,Degree
+Solenopsis invicta,Degree,4337,S  invicta,DNMT,present,DNMTpresent,Degree
+Spirometra erinaceieuropaei,Degree,2757,S  erinaceieuropaei,DNMT,absent,DNMTabsent,Degree
+Steinernema carpocapsae,Degree,1381,S  carpocapsae,DNMT,absent,DNMTabsent,Degree
+Steinernema scapterisci,Degree,1268,S  scapterisci,DNMT,absent,DNMTabsent,Degree
+Strigamia maritima,Degree,2789,S  maritima,DNMT,present,DNMTpresent,Degree
+Strongylocentrotus purpuratus,Degree,4112,S  purpuratus,DNMT,present,DNMTpresent,Degree
+Strongyloides ratti,Degree,681,S  ratti,DNMT,absent,DNMTabsent,Degree
+Strongyloides venezuelensis,Degree,876,S  venezuelensis,DNMT,absent,DNMTabsent,Degree
+Strongylus vulgaris,Degree,2567,S  vulgaris,DNMT,absent,DNMTabsent,Degree
+Syphacia muris,Degree,812,S  muris,DNMT,absent,DNMTabsent,Degree
+Taenia asiatica,Degree,1733,T  asiatica,DNMT,absent,DNMTabsent,Degree
+Taenia saginata,Degree,1763,T  saginata,DNMT,absent,DNMTabsent,Degree
+Teladorsagia circumcincta,Degree,3617,T  circumcincta,DNMT,absent,DNMTabsent,Degree
+Tetranychus urticae,Degree,1350,T  urticae,DNMT,present,DNMTpresent,Degree
+Thelazia callipaeda,Degree,771,T  callipaeda,DNMT,absent,DNMTabsent,Degree
+Thelohanellus kitauei,Degree,1238,T  kitauei,DNMT,absent,DNMTabsent,Degree
+Toxocara canis,Degree,1919,T  canis,DNMT,absent,DNMTabsent,Degree
+Tribolium castaneum,Degree,1834,T  castaneum,DNMT,present,DNMTpresent,Degree
+Trichinella nelsoni,Degree,1304,T  nelsoni,DNMT,present,DNMTpresent,Degree
+Trichinella pseudospiralis,Degree,1303,T  pseudospiralis,DNMT,present,DNMTpresent,Degree
+Trichinella spiralis,Degree,1314,T  spiralis,DNMT,present,DNMTpresent,Degree
+Trichobilharzia regenti,Degree,3013,T  regenti,DNMT,absent,DNMTabsent,Degree
+Trichoplax adhaerens,Degree,604,T  adhaerens,DNMT,absent,DNMTabsent,Degree
+Trichuris muris,Degree,1592,T  muris,DNMT,present,DNMTpresent,Degree
+Trichuris suis,Degree,1526,T  suis,DNMT,present,DNMTpresent,Degree
+Wuchereria bancrofti,Degree,1179,W  bancrofti,DNMT,absent,DNMTabsent,Degree
+Zootermopsis nevadensis,Degree,2373,Z  nevadensis,DNMT,present,DNMTpresent,Degree
+Acanthocheilonema viteae,Weighted Degree,1338727,A  viteae,DNMT,absent,DNMTabsent,Weighted Degree
+Acyrthosiphon pisum,Weighted Degree,100734868,A  pisum,DNMT,present,DNMTpresent,Weighted Degree
+Amphimedon queenslandica,Weighted Degree,43261462,A  queenslandica,DNMT,present,DNMTpresent,Weighted Degree
+Ancylostoma caninum,Weighted Degree,81528305,A  caninum,DNMT,absent,DNMTabsent,Weighted Degree
+Ancylostoma ceylanicum,Weighted Degree,66767534,A  ceylanicum,DNMT,absent,DNMTabsent,Weighted Degree
+Anopheles darlingi,Weighted Degree,2000107,A  darlingi,DNMT,absent,DNMTabsent,Weighted Degree
+Anopheles gambiae,Weighted Degree,32430151,A  gambiae,DNMT,absent,DNMTabsent,Weighted Degree
+Apis mellifera,Weighted Degree,5238030,A  mellifera,DNMT,present,DNMTpresent,Weighted Degree
+Atta cephalotes,Weighted Degree,41878573,A  cephalotes,DNMT,present,DNMTpresent,Weighted Degree
+Belgica antarctica,Weighted Degree,1755294,B  antarctica,DNMT,present,DNMTpresent,Weighted Degree
+Bombus impatiens,Weighted Degree,15772407,B  impatiens,DNMT,present,DNMTpresent,Weighted Degree
+Bombyx mori,Weighted Degree,119721708,B  mori,DNMT,present,DNMTpresent,Weighted Degree
+Brugia malayi,Weighted Degree,4034020,B  malayi,DNMT,absent,DNMTabsent,Weighted Degree
+Bursaphelenchus xylophilus,Weighted Degree,11371276,B  xylophilus,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis afra,Weighted Degree,4937286,C  afra,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis angaria,Weighted Degree,8005505,C  angaria,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis brenneri,Weighted Degree,23533794,C  brenneri,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis briggsae,Weighted Degree,24027669,C  briggsae,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis castelli,Weighted Degree,9503236,C  castelli,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis doughertyi,Weighted Degree,21041591,C  doughertyi,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis elegans,Weighted Degree,13080370,C  elegans,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis japonica,Weighted Degree,49324767,C  japonica,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis kamaaina,Weighted Degree,6447167,C  kamaaina,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis latens,Weighted Degree,11924341,C  latens,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis monodelphis,Weighted Degree,14459778,C  monodelphis,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis nouraguensis,Weighted Degree,5045761,C  nouraguensis,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis plicata,Weighted Degree,32567540,C  plicata,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis remanei,Weighted Degree,22471562,C  remanei,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis sinica,Weighted Degree,14749521,C  sinica,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis sp21,Weighted Degree,11100471,C  sp21,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis sp26,Weighted Degree,17561498,C  sp26,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis sp28,Weighted Degree,7315547,C  sp28,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis sp29,Weighted Degree,9054338,C  sp29,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis sp31,Weighted Degree,8768715,C  sp31,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis sp32,Weighted Degree,5189168,C  sp32,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis sp34,Weighted Degree,27984065,C  sp34,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis sp38,Weighted Degree,11981354,C  sp38,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis sp39,Weighted Degree,6290987,C  sp39,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis tropicalis,Weighted Degree,6624930,C  tropicalis,DNMT,absent,DNMTabsent,Weighted Degree
+Caenorhabditis virilis,Weighted Degree,16072966,C  virilis,DNMT,absent,DNMTabsent,Weighted Degree
+Capitella teleta,Weighted Degree,61084230,C  teleta,DNMT,present,DNMTpresent,Weighted Degree
+Clonorchis sinensis,Weighted Degree,128422586,C  sinensis,DNMT,absent,DNMTabsent,Weighted Degree
+Crassostrea gigas,Weighted Degree,80665806,C  gigas,DNMT,present,DNMTpresent,Weighted Degree
+Culex quinquefasciatus,Weighted Degree,169804954,C  quinquefasciatus,DNMT,absent,DNMTabsent,Weighted Degree
+Danaus plexippus,Weighted Degree,19538659,D  plexippus,DNMT,present,DNMTpresent,Weighted Degree
+Daphnia pulex,Weighted Degree,32066006,D  pulex,DNMT,present,DNMTpresent,Weighted Degree
+Dendroctonus ponderosae,Weighted Degree,23678254,D  ponderosae,DNMT,absent,DNMTabsent,Weighted Degree
+Dictyocaulus viviparus,Weighted Degree,3636839,D  viviparus,DNMT,absent,DNMTabsent,Weighted Degree
+Diploscapter coronatus,Weighted Degree,18447173,D  coronatus,DNMT,absent,DNMTabsent,Weighted Degree
+Dirofilaria immitis,Weighted Degree,2336932,D  immitis,DNMT,absent,DNMTabsent,Weighted Degree
+Ditylenchus destructor,Weighted Degree,8949434,D  destructor,DNMT,absent,DNMTabsent,Weighted Degree
+Dracunculus medinensis,Weighted Degree,15479375,D  medinensis,DNMT,absent,DNMTabsent,Weighted Degree
+Drosophila erecta,Weighted Degree,27349103,D  erecta,DNMT,absent,DNMTabsent,Weighted Degree
+Drosophila grimshawi,Weighted Degree,36187963,D  grimshawi,DNMT,absent,DNMTabsent,Weighted Degree
+Drosophila melanogaster,Weighted Degree,26720982,D  melanogaster,DNMT,absent,DNMTabsent,Weighted Degree
+Drosophila mojavensis,Weighted Degree,29036631,D  mojavensis,DNMT,absent,DNMTabsent,Weighted Degree
+Drosophila pseudoobscura,Weighted Degree,4717452,D  pseudoobscura,DNMT,absent,DNMTabsent,Weighted Degree
+Drosophila simulans,Weighted Degree,16527326,D  simulans,DNMT,absent,DNMTabsent,Weighted Degree
+Drosophila yakuba,Weighted Degree,33879764,D  yakuba,DNMT,absent,DNMTabsent,Weighted Degree
+Echinococcus multilocularis,Weighted Degree,10560511,E  multilocularis,DNMT,absent,DNMTabsent,Weighted Degree
+Echinostoma caproni,Weighted Degree,315550082,E  caproni,DNMT,absent,DNMTabsent,Weighted Degree
+Elaeophora elaphi,Weighted Degree,1339085,E  elaphi,DNMT,absent,DNMTabsent,Weighted Degree
+Enterobius vermicularis,Weighted Degree,4554885,E  vermicularis,DNMT,absent,DNMTabsent,Weighted Degree
+Fasciola hepatica,Weighted Degree,609612743,F  hepatica,DNMT,absent,DNMTabsent,Weighted Degree
+Globodera pallida,Weighted Degree,13535504,G  pallida,DNMT,absent,DNMTabsent,Weighted Degree
+Gongylonema pulchrum,Weighted Degree,84116736,G  pulchrum,DNMT,absent,DNMTabsent,Weighted Degree
+Gyrodactylus salaris,Weighted Degree,7514712,G  salaris,DNMT,absent,DNMTabsent,Weighted Degree
+Haemonchus contortus,Weighted Degree,81837701,H  contortus,DNMT,absent,DNMTabsent,Weighted Degree
+Haemonchus placei,Weighted Degree,49987868,H  placei,DNMT,absent,DNMTabsent,Weighted Degree
+Heliconius melpomene,Weighted Degree,40260736,H  melpomene,DNMT,present,DNMTpresent,Weighted Degree
+Helobdella robusta,Weighted Degree,34920022,H  robusta,DNMT,present,DNMTpresent,Weighted Degree
+Heterorhabditis bacteriophora,Weighted Degree,6918205,H  bacteriophora,DNMT,absent,DNMTabsent,Weighted Degree
+Hydatigera taeniaeformis,Weighted Degree,3657639,H  taeniaeformis,DNMT,absent,DNMTabsent,Weighted Degree
+Hymenolepis microstoma,Weighted Degree,14516379,H  microstoma,DNMT,absent,DNMTabsent,Weighted Degree
+Hypsibius dujardini,Weighted Degree,9095967,H  dujardini,DNMT,absent,DNMTabsent,Weighted Degree
+Lepeophtheirus salmonis,Weighted Degree,258727330,L  salmonis,DNMT,present,DNMTpresent,Weighted Degree
+Lingula anatina,Weighted Degree,42015423,L  anatina,DNMT,present,DNMTpresent,Weighted Degree
+Litomosoides sigmodontis,Weighted Degree,530362,L  sigmodontis,DNMT,absent,DNMTabsent,Weighted Degree
+Loa loa,Weighted Degree,7501945,L  loa,DNMT,absent,DNMTabsent,Weighted Degree
+Lottia gigantea,Weighted Degree,46641171,L  gigantea,DNMT,present,DNMTpresent,Weighted Degree
+Lucilia cuprina,Weighted Degree,73875830,L  cuprina,DNMT,absent,DNMTabsent,Weighted Degree
+Macrostomum lignano,Weighted Degree,137387320,M  lignano,DNMT,present,DNMTpresent,Weighted Degree
+Megaselia scalaris,Weighted Degree,75460346,M  scalaris,DNMT,absent,DNMTabsent,Weighted Degree
+Melitaea cinxia,Weighted Degree,64088331,M  cinxia,DNMT,present,DNMTpresent,Weighted Degree
+Meloidogyne incognita,Weighted Degree,10057174,M  incognita,DNMT,absent,DNMTabsent,Weighted Degree
+Mesocestoides corti,Weighted Degree,7450330,M  corti,DNMT,absent,DNMTabsent,Weighted Degree
+Mesorhabditis belari,Weighted Degree,28113033,M  belari,DNMT,absent,DNMTabsent,Weighted Degree
+Mnemiopsis leidyi,Weighted Degree,17804226,M  leidyi,DNMT,present,DNMTpresent,Weighted Degree
+Nasonia vitripennis,Weighted Degree,38938321,N  vitripennis,DNMT,present,DNMTpresent,Weighted Degree
+Necator americanus,Weighted Degree,31954661,N  americanus,DNMT,absent,DNMTabsent,Weighted Degree
+Nematostella vectensis,Weighted Degree,54462503,N  vectensis,DNMT,present,DNMTpresent,Weighted Degree
+Nippostrongylus brasiliensis,Weighted Degree,54445064,N  brasiliensis,DNMT,absent,DNMTabsent,Weighted Degree
+Oesophagostomum dentatum,Weighted Degree,56894778,O  dentatum,DNMT,absent,DNMTabsent,Weighted Degree
+Onchocerca volvulus,Weighted Degree,5824765,O  volvulus,DNMT,absent,DNMTabsent,Weighted Degree
+Opisthorchis viverrini,Weighted Degree,132915935,O  viverrini,DNMT,absent,DNMTabsent,Weighted Degree
+Panagrellus redivivus,Weighted Degree,2995232,P  redivivus,DNMT,absent,DNMTabsent,Weighted Degree
+Parastrongyloides trichosuri,Weighted Degree,1023624,P  trichosuri,DNMT,absent,DNMTabsent,Weighted Degree
+Pediculus humanus,Weighted Degree,4530460,P  humanus,DNMT,present,DNMTpresent,Weighted Degree
+Plectus sambesii,Weighted Degree,10507768,P  sambesii,DNMT,present,DNMTpresent,Weighted Degree
+Poikilolaimus oxycercus,Weighted Degree,11550970,P  oxycercus,DNMT,absent,DNMTabsent,Weighted Degree
+Pristionchus exspectatus,Weighted Degree,10904859,P  exspectatus,DNMT,absent,DNMTabsent,Weighted Degree
+Pristionchus pacificus,Weighted Degree,17208519,P  pacificus,DNMT,absent,DNMTabsent,Weighted Degree
+Protopolystoma xenopodis,Weighted Degree,195711683,P  xenopodis,DNMT,absent,DNMTabsent,Weighted Degree
+Rhodnius prolixus,Weighted Degree,139791116,R  prolixus,DNMT,present,DNMTpresent,Weighted Degree
+Romanomermis culicivorax,Weighted Degree,67473705,R  culicivorax,DNMT,present,DNMTpresent,Weighted Degree
+Sarcoptes scabiei,Weighted Degree,622882,S  scabiei,DNMT,present,DNMTpresent,Weighted Degree
+Schistocephalus solidus,Weighted Degree,216150687,S  solidus,DNMT,absent,DNMTabsent,Weighted Degree
+Schistosoma haematobium,Weighted Degree,122558909,S  haematobium,DNMT,absent,DNMTabsent,Weighted Degree
+Schistosoma japonicum,Weighted Degree,136796561,S  japonicum,DNMT,absent,DNMTabsent,Weighted Degree
+Schistosoma mansoni,Weighted Degree,137648662,S  mansoni,DNMT,absent,DNMTabsent,Weighted Degree
+Schmidtea mediterranea,Weighted Degree,261291486,S  mediterranea,DNMT,absent,DNMTabsent,Weighted Degree
+Soboliphyme baturini,Weighted Degree,63186155,S  baturini,DNMT,present,DNMTpresent,Weighted Degree
+Solenopsis invicta,Weighted Degree,65368829,S  invicta,DNMT,present,DNMTpresent,Weighted Degree
+Spirometra erinaceieuropaei,Weighted Degree,388752683,S  erinaceieuropaei,DNMT,absent,DNMTabsent,Weighted Degree
+Steinernema carpocapsae,Weighted Degree,3056693,S  carpocapsae,DNMT,absent,DNMTabsent,Weighted Degree
+Steinernema scapterisci,Weighted Degree,1356688,S  scapterisci,DNMT,absent,DNMTabsent,Weighted Degree
+Strigamia maritima,Weighted Degree,53262653,S  maritima,DNMT,present,DNMTpresent,Weighted Degree
+Strongylocentrotus purpuratus,Weighted Degree,142558043,S  purpuratus,DNMT,present,DNMTpresent,Weighted Degree
+Strongyloides ratti,Weighted Degree,2197458,S  ratti,DNMT,absent,DNMTabsent,Weighted Degree
+Strongyloides venezuelensis,Weighted Degree,5540955,S  venezuelensis,DNMT,absent,DNMTabsent,Weighted Degree
+Strongylus vulgaris,Weighted Degree,36835274,S  vulgaris,DNMT,absent,DNMTabsent,Weighted Degree
+Syphacia muris,Weighted Degree,724273,S  muris,DNMT,absent,DNMTabsent,Weighted Degree
+Taenia asiatica,Weighted Degree,42393887,T  asiatica,DNMT,absent,DNMTabsent,Weighted Degree
+Taenia saginata,Weighted Degree,43899972,T  saginata,DNMT,absent,DNMTabsent,Weighted Degree
+Teladorsagia circumcincta,Weighted Degree,124339957,T  circumcincta,DNMT,absent,DNMTabsent,Weighted Degree
+Tetranychus urticae,Weighted Degree,7633424,T  urticae,DNMT,present,DNMTpresent,Weighted Degree
+Thelazia callipaeda,Weighted Degree,1850104,T  callipaeda,DNMT,absent,DNMTabsent,Weighted Degree
+Thelohanellus kitauei,Weighted Degree,33937411,T  kitauei,DNMT,absent,DNMTabsent,Weighted Degree
+Toxocara canis,Weighted Degree,12738285,T  canis,DNMT,absent,DNMTabsent,Weighted Degree
+Tribolium castaneum,Weighted Degree,21561052,T  castaneum,DNMT,present,DNMTpresent,Weighted Degree
+Trichinella nelsoni,Weighted Degree,6643024,T  nelsoni,DNMT,present,DNMTpresent,Weighted Degree
+Trichinella pseudospiralis,Weighted Degree,6769174,T  pseudospiralis,DNMT,present,DNMTpresent,Weighted Degree
+Trichinella spiralis,Weighted Degree,11438841,T  spiralis,DNMT,present,DNMTpresent,Weighted Degree
+Trichobilharzia regenti,Weighted Degree,271128120,T  regenti,DNMT,absent,DNMTabsent,Weighted Degree
+Trichoplax adhaerens,Weighted Degree,2191400,T  adhaerens,DNMT,absent,DNMTabsent,Weighted Degree
+Trichuris muris,Weighted Degree,21155561,T  muris,DNMT,present,DNMTpresent,Weighted Degree
+Trichuris suis,Weighted Degree,8943897,T  suis,DNMT,present,DNMTpresent,Weighted Degree
+Wuchereria bancrofti,Weighted Degree,1875246,W  bancrofti,DNMT,absent,DNMTabsent,Weighted Degree
+Zootermopsis nevadensis,Weighted Degree,63144259,Z  nevadensis,DNMT,present,DNMTpresent,Weighted Degree
+Acanthocheilonema viteae,Singletons,8,A  viteae,PIWI,absent,PIWIabsent,Singletons
+Acyrthosiphon pisum,Singletons,461,A  pisum,PIWI,present,PIWIpresent,Singletons
+Amphimedon queenslandica,Singletons,476,A  queenslandica,PIWI,present,PIWIpresent,Singletons
+Ancylostoma caninum,Singletons,13,A  caninum,PIWI,present,PIWIpresent,Singletons
+Ancylostoma ceylanicum,Singletons,16,A  ceylanicum,PIWI,present,PIWIpresent,Singletons
+Anopheles darlingi,Singletons,31,A  darlingi,PIWI,present,PIWIpresent,Singletons
+Anopheles gambiae,Singletons,270,A  gambiae,PIWI,present,PIWIpresent,Singletons
+Apis mellifera,Singletons,20,A  mellifera,PIWI,present,PIWIpresent,Singletons
+Atta cephalotes,Singletons,88,A  cephalotes,PIWI,present,PIWIpresent,Singletons
+Belgica antarctica,Singletons,54,B  antarctica,PIWI,present,PIWIpresent,Singletons
+Bombus impatiens,Singletons,115,B  impatiens,PIWI,present,PIWIpresent,Singletons
+Bombyx mori,Singletons,177,B  mori,PIWI,present,PIWIpresent,Singletons
+Brugia malayi,Singletons,7,B  malayi,PIWI,absent,PIWIabsent,Singletons
+Bursaphelenchus xylophilus,Singletons,112,B  xylophilus,PIWI,absent,PIWIabsent,Singletons
+Caenorhabditis afra,Singletons,36,C  afra,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis angaria,Singletons,17,C  angaria,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis brenneri,Singletons,76,C  brenneri,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis briggsae,Singletons,50,C  briggsae,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis castelli,Singletons,13,C  castelli,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis doughertyi,Singletons,76,C  doughertyi,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis elegans,Singletons,62,C  elegans,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis japonica,Singletons,185,C  japonica,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis kamaaina,Singletons,40,C  kamaaina,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis latens,Singletons,5,C  latens,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis monodelphis,Singletons,170,C  monodelphis,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis nouraguensis,Singletons,10,C  nouraguensis,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis plicata,Singletons,213,C  plicata,PIWI,absent,PIWIabsent,Singletons
+Caenorhabditis remanei,Singletons,3,C  remanei,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis sinica,Singletons,53,C  sinica,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis sp21,Singletons,107,C  sp21,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis sp26,Singletons,32,C  sp26,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis sp28,Singletons,25,C  sp28,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis sp29,Singletons,9,C  sp29,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis sp31,Singletons,88,C  sp31,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis sp32,Singletons,57,C  sp32,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis sp34,Singletons,97,C  sp34,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis sp38,Singletons,94,C  sp38,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis sp39,Singletons,21,C  sp39,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis tropicalis,Singletons,17,C  tropicalis,PIWI,present,PIWIpresent,Singletons
+Caenorhabditis virilis,Singletons,107,C  virilis,PIWI,present,PIWIpresent,Singletons
+Capitella teleta,Singletons,739,C  teleta,PIWI,present,PIWIpresent,Singletons
+Clonorchis sinensis,Singletons,6,C  sinensis,PIWI,absent,PIWIabsent,Singletons
+Crassostrea gigas,Singletons,458,C  gigas,PIWI,present,PIWIpresent,Singletons
+Culex quinquefasciatus,Singletons,406,C  quinquefasciatus,PIWI,present,PIWIpresent,Singletons
+Danaus plexippus,Singletons,42,D  plexippus,PIWI,present,PIWIpresent,Singletons
+Daphnia pulex,Singletons,400,D  pulex,PIWI,present,PIWIpresent,Singletons
+Dendroctonus ponderosae,Singletons,256,D  ponderosae,PIWI,present,PIWIpresent,Singletons
+Dictyocaulus viviparus,Singletons,5,D  viviparus,PIWI,present,PIWIpresent,Singletons
+Diploscapter coronatus,Singletons,123,D  coronatus,PIWI,present,PIWIpresent,Singletons
+Dirofilaria immitis,Singletons,5,D  immitis,PIWI,absent,PIWIabsent,Singletons
+Ditylenchus destructor,Singletons,148,D  destructor,PIWI,absent,PIWIabsent,Singletons
+Dracunculus medinensis,Singletons,52,D  medinensis,PIWI,absent,PIWIabsent,Singletons
+Drosophila erecta,Singletons,22,D  erecta,PIWI,present,PIWIpresent,Singletons
+Drosophila grimshawi,Singletons,66,D  grimshawi,PIWI,present,PIWIpresent,Singletons
+Drosophila melanogaster,Singletons,7,D  melanogaster,PIWI,present,PIWIpresent,Singletons
+Drosophila mojavensis,Singletons,80,D  mojavensis,PIWI,present,PIWIpresent,Singletons
+Drosophila pseudoobscura,Singletons,147,D  pseudoobscura,PIWI,present,PIWIpresent,Singletons
+Drosophila simulans,Singletons,6,D  simulans,PIWI,present,PIWIpresent,Singletons
+Drosophila yakuba,Singletons,53,D  yakuba,PIWI,present,PIWIpresent,Singletons
+Echinococcus multilocularis,Singletons,10,E  multilocularis,PIWI,absent,PIWIabsent,Singletons
+Echinostoma caproni,Singletons,223,E  caproni,PIWI,absent,PIWIabsent,Singletons
+Elaeophora elaphi,Singletons,2,E  elaphi,PIWI,absent,PIWIabsent,Singletons
+Enterobius vermicularis,Singletons,38,E  vermicularis,PIWI,absent,PIWIabsent,Singletons
+Fasciola hepatica,Singletons,140,F  hepatica,PIWI,absent,PIWIabsent,Singletons
+Globodera pallida,Singletons,206,G  pallida,PIWI,absent,PIWIabsent,Singletons
+Gongylonema pulchrum,Singletons,227,G  pulchrum,PIWI,absent,PIWIabsent,Singletons
+Gyrodactylus salaris,Singletons,287,G  salaris,PIWI,absent,PIWIabsent,Singletons
+Haemonchus contortus,Singletons,3,H  contortus,PIWI,present,PIWIpresent,Singletons
+Haemonchus placei,Singletons,4,H  placei,PIWI,present,PIWIpresent,Singletons
+Heliconius melpomene,Singletons,86,H  melpomene,PIWI,present,PIWIpresent,Singletons
+Helobdella robusta,Singletons,187,H  robusta,PIWI,present,PIWIpresent,Singletons
+Heterorhabditis bacteriophora,Singletons,31,H  bacteriophora,PIWI,present,PIWIpresent,Singletons
+Hydatigera taeniaeformis,Singletons,51,H  taeniaeformis,PIWI,absent,PIWIabsent,Singletons
+Hymenolepis microstoma,Singletons,110,H  microstoma,PIWI,absent,PIWIabsent,Singletons
+Hypsibius dujardini,Singletons,233,H  dujardini,PIWI,present,PIWIpresent,Singletons
+Lepeophtheirus salmonis,Singletons,1125,L  salmonis,PIWI,present,PIWIpresent,Singletons
+Lingula anatina,Singletons,256,L  anatina,PIWI,present,PIWIpresent,Singletons
+Litomosoides sigmodontis,Singletons,3,L  sigmodontis,PIWI,absent,PIWIabsent,Singletons
+Loa loa,Singletons,14,L  loa,PIWI,absent,PIWIabsent,Singletons
+Lottia gigantea,Singletons,239,L  gigantea,PIWI,present,PIWIpresent,Singletons
+Lucilia cuprina,Singletons,300,L  cuprina,PIWI,present,PIWIpresent,Singletons
+Macrostomum lignano,Singletons,193,M  lignano,PIWI,present,PIWIpresent,Singletons
+Megaselia scalaris,Singletons,542,M  scalaris,PIWI,present,PIWIpresent,Singletons
+Melitaea cinxia,Singletons,152,M  cinxia,PIWI,present,PIWIpresent,Singletons
+Meloidogyne incognita,Singletons,110,M  incognita,PIWI,absent,PIWIabsent,Singletons
+Mesocestoides corti,Singletons,61,M  corti,PIWI,absent,PIWIabsent,Singletons
+Mesorhabditis belari,Singletons,376,M  belari,PIWI,present,PIWIpresent,Singletons
+Mnemiopsis leidyi,Singletons,463,M  leidyi,PIWI,present,PIWIpresent,Singletons
+Nasonia vitripennis,Singletons,403,N  vitripennis,PIWI,present,PIWIpresent,Singletons
+Necator americanus,Singletons,51,N  americanus,PIWI,present,PIWIpresent,Singletons
+Nematostella vectensis,Singletons,606,N  vectensis,PIWI,present,PIWIpresent,Singletons
+Nippostrongylus brasiliensis,Singletons,236,N  brasiliensis,PIWI,present,PIWIpresent,Singletons
+Oesophagostomum dentatum,Singletons,185,O  dentatum,PIWI,present,PIWIpresent,Singletons
+Onchocerca volvulus,Singletons,17,O  volvulus,PIWI,absent,PIWIabsent,Singletons
+Opisthorchis viverrini,Singletons,7,O  viverrini,PIWI,absent,PIWIabsent,Singletons
+Panagrellus redivivus,Singletons,102,P  redivivus,PIWI,absent,PIWIabsent,Singletons
+Parastrongyloides trichosuri,Singletons,10,P  trichosuri,PIWI,absent,PIWIabsent,Singletons
+Pediculus humanus,Singletons,18,P  humanus,PIWI,present,PIWIpresent,Singletons
+Plectus sambesii,Singletons,216,P  sambesii,PIWI,present,PIWIpresent,Singletons
+Poikilolaimus oxycercus,Singletons,235,P  oxycercus,PIWI,present,PIWIpresent,Singletons
+Pristionchus exspectatus,Singletons,2,P  exspectatus,PIWI,present,PIWIpresent,Singletons
+Pristionchus pacificus,Singletons,11,P  pacificus,PIWI,present,PIWIpresent,Singletons
+Protopolystoma xenopodis,Singletons,74,P  xenopodis,PIWI,absent,PIWIabsent,Singletons
+Rhodnius prolixus,Singletons,243,R  prolixus,PIWI,present,PIWIpresent,Singletons
+Romanomermis culicivorax,Singletons,691,R  culicivorax,PIWI,absent,PIWIabsent,Singletons
+Sarcoptes scabiei,Singletons,4,S  scabiei,PIWI,absent,PIWIabsent,Singletons
+Schistocephalus solidus,Singletons,14,S  solidus,PIWI,absent,PIWIabsent,Singletons
+Schistosoma haematobium,Singletons,11,S  haematobium,PIWI,absent,PIWIabsent,Singletons
+Schistosoma japonicum,Singletons,84,S  japonicum,PIWI,absent,PIWIabsent,Singletons
+Schistosoma mansoni,Singletons,6,S  mansoni,PIWI,absent,PIWIabsent,Singletons
+Schmidtea mediterranea,Singletons,929,S  mediterranea,PIWI,present,PIWIpresent,Singletons
+Soboliphyme baturini,Singletons,188,S  baturini,PIWI,absent,PIWIabsent,Singletons
+Solenopsis invicta,Singletons,155,S  invicta,PIWI,present,PIWIpresent,Singletons
+Spirometra erinaceieuropaei,Singletons,46,S  erinaceieuropaei,PIWI,absent,PIWIabsent,Singletons
+Steinernema carpocapsae,Singletons,50,S  carpocapsae,PIWI,absent,PIWIabsent,Singletons
+Steinernema scapterisci,Singletons,4,S  scapterisci,PIWI,absent,PIWIabsent,Singletons
+Strigamia maritima,Singletons,391,S  maritima,PIWI,present,PIWIpresent,Singletons
+Strongylocentrotus purpuratus,Singletons,555,S  purpuratus,PIWI,present,PIWIpresent,Singletons
+Strongyloides ratti,Singletons,5,S  ratti,PIWI,absent,PIWIabsent,Singletons
+Strongyloides venezuelensis,Singletons,39,S  venezuelensis,PIWI,absent,PIWIabsent,Singletons
+Strongylus vulgaris,Singletons,171,S  vulgaris,PIWI,present,PIWIpresent,Singletons
+Syphacia muris,Singletons,11,S  muris,PIWI,absent,PIWIabsent,Singletons
+Taenia asiatica,Singletons,3,T  asiatica,PIWI,absent,PIWIabsent,Singletons
+Taenia saginata,Singletons,3,T  saginata,PIWI,absent,PIWIabsent,Singletons
+Teladorsagia circumcincta,Singletons,100,T  circumcincta,PIWI,present,PIWIpresent,Singletons
+Tetranychus urticae,Singletons,100,T  urticae,PIWI,present,PIWIpresent,Singletons
+Thelazia callipaeda,Singletons,9,T  callipaeda,PIWI,absent,PIWIabsent,Singletons
+Thelohanellus kitauei,Singletons,258,T  kitauei,PIWI,present,PIWIpresent,Singletons
+Toxocara canis,Singletons,96,T  canis,PIWI,absent,PIWIabsent,Singletons
+Tribolium castaneum,Singletons,256,T  castaneum,PIWI,present,PIWIpresent,Singletons
+Trichinella nelsoni,Singletons,2,T  nelsoni,PIWI,absent,PIWIabsent,Singletons
+Trichinella pseudospiralis,Singletons,24,T  pseudospiralis,PIWI,absent,PIWIabsent,Singletons
+Trichinella spiralis,Singletons,8,T  spiralis,PIWI,absent,PIWIabsent,Singletons
+Trichobilharzia regenti,Singletons,231,T  regenti,PIWI,absent,PIWIabsent,Singletons
+Trichoplax adhaerens,Singletons,46,T  adhaerens,PIWI,absent,PIWIabsent,Singletons
+Trichuris muris,Singletons,67,T  muris,PIWI,absent,PIWIabsent,Singletons
+Trichuris suis,Singletons,78,T  suis,PIWI,absent,PIWIabsent,Singletons
+Wuchereria bancrofti,Singletons,1,W  bancrofti,PIWI,absent,PIWIabsent,Singletons
+Zootermopsis nevadensis,Singletons,230,Z  nevadensis,PIWI,present,PIWIpresent,Singletons
+Acanthocheilonema viteae,Degree,1085,A  viteae,PIWI,absent,PIWIabsent,Degree
+Acyrthosiphon pisum,Degree,4261,A  pisum,PIWI,present,PIWIpresent,Degree
+Amphimedon queenslandica,Degree,2137,A  queenslandica,PIWI,present,PIWIpresent,Degree
+Ancylostoma caninum,Degree,4104,A  caninum,PIWI,present,PIWIpresent,Degree
+Ancylostoma ceylanicum,Degree,3796,A  ceylanicum,PIWI,present,PIWIpresent,Degree
+Anopheles darlingi,Degree,1270,A  darlingi,PIWI,present,PIWIpresent,Degree
+Anopheles gambiae,Degree,2337,A  gambiae,PIWI,present,PIWIpresent,Degree
+Apis mellifera,Degree,1756,A  mellifera,PIWI,present,PIWIpresent,Degree
+Atta cephalotes,Degree,3414,A  cephalotes,PIWI,present,PIWIpresent,Degree
+Belgica antarctica,Degree,1059,B  antarctica,PIWI,present,PIWIpresent,Degree
+Bombus impatiens,Degree,2075,B  impatiens,PIWI,present,PIWIpresent,Degree
+Bombyx mori,Degree,3282,B  mori,PIWI,present,PIWIpresent,Degree
+Brugia malayi,Degree,1223,B  malayi,PIWI,absent,PIWIabsent,Degree
+Bursaphelenchus xylophilus,Degree,1270,B  xylophilus,PIWI,absent,PIWIabsent,Degree
+Caenorhabditis afra,Degree,2581,C  afra,PIWI,present,PIWIpresent,Degree
+Caenorhabditis angaria,Degree,2627,C  angaria,PIWI,present,PIWIpresent,Degree
+Caenorhabditis brenneri,Degree,3446,C  brenneri,PIWI,present,PIWIpresent,Degree
+Caenorhabditis briggsae,Degree,3129,C  briggsae,PIWI,present,PIWIpresent,Degree
+Caenorhabditis castelli,Degree,2616,C  castelli,PIWI,present,PIWIpresent,Degree
+Caenorhabditis doughertyi,Degree,3589,C  doughertyi,PIWI,present,PIWIpresent,Degree
+Caenorhabditis elegans,Degree,2633,C  elegans,PIWI,present,PIWIpresent,Degree
+Caenorhabditis japonica,Degree,3494,C  japonica,PIWI,present,PIWIpresent,Degree
+Caenorhabditis kamaaina,Degree,2669,C  kamaaina,PIWI,present,PIWIpresent,Degree
+Caenorhabditis latens,Degree,3135,C  latens,PIWI,present,PIWIpresent,Degree
+Caenorhabditis monodelphis,Degree,1974,C  monodelphis,PIWI,present,PIWIpresent,Degree
+Caenorhabditis nouraguensis,Degree,2417,C  nouraguensis,PIWI,present,PIWIpresent,Degree
+Caenorhabditis plicata,Degree,1923,C  plicata,PIWI,absent,PIWIabsent,Degree
+Caenorhabditis remanei,Degree,3485,C  remanei,PIWI,present,PIWIpresent,Degree
+Caenorhabditis sinica,Degree,3594,C  sinica,PIWI,present,PIWIpresent,Degree
+Caenorhabditis sp21,Degree,1668,C  sp21,PIWI,present,PIWIpresent,Degree
+Caenorhabditis sp26,Degree,3311,C  sp26,PIWI,present,PIWIpresent,Degree
+Caenorhabditis sp28,Degree,2506,C  sp28,PIWI,present,PIWIpresent,Degree
+Caenorhabditis sp29,Degree,2666,C  sp29,PIWI,present,PIWIpresent,Degree
+Caenorhabditis sp31,Degree,2218,C  sp31,PIWI,present,PIWIpresent,Degree
+Caenorhabditis sp32,Degree,2596,C  sp32,PIWI,present,PIWIpresent,Degree
+Caenorhabditis sp34,Degree,2779,C  sp34,PIWI,present,PIWIpresent,Degree
+Caenorhabditis sp38,Degree,2431,C  sp38,PIWI,present,PIWIpresent,Degree
+Caenorhabditis sp39,Degree,2778,C  sp39,PIWI,present,PIWIpresent,Degree
+Caenorhabditis tropicalis,Degree,2652,C  tropicalis,PIWI,present,PIWIpresent,Degree
+Caenorhabditis virilis,Degree,2428,C  virilis,PIWI,present,PIWIpresent,Degree
+Capitella teleta,Degree,3243,C  teleta,PIWI,present,PIWIpresent,Degree
+Clonorchis sinensis,Degree,2510,C  sinensis,PIWI,absent,PIWIabsent,Degree
+Crassostrea gigas,Degree,3159,C  gigas,PIWI,present,PIWIpresent,Degree
+Culex quinquefasciatus,Degree,2732,C  quinquefasciatus,PIWI,present,PIWIpresent,Degree
+Danaus plexippus,Degree,2443,D  plexippus,PIWI,present,PIWIpresent,Degree
+Daphnia pulex,Degree,2297,D  pulex,PIWI,present,PIWIpresent,Degree
+Dendroctonus ponderosae,Degree,2719,D  ponderosae,PIWI,present,PIWIpresent,Degree
+Dictyocaulus viviparus,Degree,479,D  viviparus,PIWI,present,PIWIpresent,Degree
+Diploscapter coronatus,Degree,1488,D  coronatus,PIWI,present,PIWIpresent,Degree
+Dirofilaria immitis,Degree,1114,D  immitis,PIWI,absent,PIWIabsent,Degree
+Ditylenchus destructor,Degree,1418,D  destructor,PIWI,absent,PIWIabsent,Degree
+Dracunculus medinensis,Degree,1116,D  medinensis,PIWI,absent,PIWIabsent,Degree
+Drosophila erecta,Degree,2584,D  erecta,PIWI,present,PIWIpresent,Degree
+Drosophila grimshawi,Degree,1537,D  grimshawi,PIWI,present,PIWIpresent,Degree
+Drosophila melanogaster,Degree,2472,D  melanogaster,PIWI,present,PIWIpresent,Degree
+Drosophila mojavensis,Degree,2180,D  mojavensis,PIWI,present,PIWIpresent,Degree
+Drosophila pseudoobscura,Degree,1845,D  pseudoobscura,PIWI,present,PIWIpresent,Degree
+Drosophila simulans,Degree,2365,D  simulans,PIWI,present,PIWIpresent,Degree
+Drosophila yakuba,Degree,2963,D  yakuba,PIWI,present,PIWIpresent,Degree
+Echinococcus multilocularis,Degree,1443,E  multilocularis,PIWI,absent,PIWIabsent,Degree
+Echinostoma caproni,Degree,3714,E  caproni,PIWI,absent,PIWIabsent,Degree
+Elaeophora elaphi,Degree,1097,E  elaphi,PIWI,absent,PIWIabsent,Degree
+Enterobius vermicularis,Degree,1373,E  vermicularis,PIWI,absent,PIWIabsent,Degree
+Fasciola hepatica,Degree,3837,F  hepatica,PIWI,absent,PIWIabsent,Degree
+Globodera pallida,Degree,1697,G  pallida,PIWI,absent,PIWIabsent,Degree
+Gongylonema pulchrum,Degree,2001,G  pulchrum,PIWI,absent,PIWIabsent,Degree
+Gyrodactylus salaris,Degree,1064,G  salaris,PIWI,absent,PIWIabsent,Degree
+Haemonchus contortus,Degree,3386,H  contortus,PIWI,present,PIWIpresent,Degree
+Haemonchus placei,Degree,3032,H  placei,PIWI,present,PIWIpresent,Degree
+Heliconius melpomene,Degree,2280,H  melpomene,PIWI,present,PIWIpresent,Degree
+Helobdella robusta,Degree,2569,H  robusta,PIWI,present,PIWIpresent,Degree
+Heterorhabditis bacteriophora,Degree,1093,H  bacteriophora,PIWI,present,PIWIpresent,Degree
+Hydatigera taeniaeformis,Degree,1119,H  taeniaeformis,PIWI,absent,PIWIabsent,Degree
+Hymenolepis microstoma,Degree,919,H  microstoma,PIWI,absent,PIWIabsent,Degree
+Hypsibius dujardini,Degree,1267,H  dujardini,PIWI,present,PIWIpresent,Degree
+Lepeophtheirus salmonis,Degree,3782,L  salmonis,PIWI,present,PIWIpresent,Degree
+Lingula anatina,Degree,2435,L  anatina,PIWI,present,PIWIpresent,Degree
+Litomosoides sigmodontis,Degree,940,L  sigmodontis,PIWI,absent,PIWIabsent,Degree
+Loa loa,Degree,1315,L  loa,PIWI,absent,PIWIabsent,Degree
+Lottia gigantea,Degree,2682,L  gigantea,PIWI,present,PIWIpresent,Degree
+Lucilia cuprina,Degree,3597,L  cuprina,PIWI,present,PIWIpresent,Degree
+Macrostomum lignano,Degree,4026,M  lignano,PIWI,present,PIWIpresent,Degree
+Megaselia scalaris,Degree,3051,M  scalaris,PIWI,present,PIWIpresent,Degree
+Melitaea cinxia,Degree,3620,M  cinxia,PIWI,present,PIWIpresent,Degree
+Meloidogyne incognita,Degree,1580,M  incognita,PIWI,absent,PIWIabsent,Degree
+Mesocestoides corti,Degree,887,M  corti,PIWI,absent,PIWIabsent,Degree
+Mesorhabditis belari,Degree,3185,M  belari,PIWI,present,PIWIpresent,Degree
+Mnemiopsis leidyi,Degree,1738,M  leidyi,PIWI,present,PIWIpresent,Degree
+Nasonia vitripennis,Degree,2912,N  vitripennis,PIWI,present,PIWIpresent,Degree
+Necator americanus,Degree,2288,N  americanus,PIWI,present,PIWIpresent,Degree
+Nematostella vectensis,Degree,3007,N  vectensis,PIWI,present,PIWIpresent,Degree
+Nippostrongylus brasiliensis,Degree,3231,N  brasiliensis,PIWI,present,PIWIpresent,Degree
+Oesophagostomum dentatum,Degree,3534,O  dentatum,PIWI,present,PIWIpresent,Degree
+Onchocerca volvulus,Degree,1258,O  volvulus,PIWI,absent,PIWIabsent,Degree
+Opisthorchis viverrini,Degree,2499,O  viverrini,PIWI,absent,PIWIabsent,Degree
+Panagrellus redivivus,Degree,1172,P  redivivus,PIWI,absent,PIWIabsent,Degree
+Parastrongyloides trichosuri,Degree,677,P  trichosuri,PIWI,absent,PIWIabsent,Degree
+Pediculus humanus,Degree,1415,P  humanus,PIWI,present,PIWIpresent,Degree
+Plectus sambesii,Degree,1780,P  sambesii,PIWI,present,PIWIpresent,Degree
+Poikilolaimus oxycercus,Degree,1577,P  oxycercus,PIWI,present,PIWIpresent,Degree
+Pristionchus exspectatus,Degree,1940,P  exspectatus,PIWI,present,PIWIpresent,Degree
+Pristionchus pacificus,Degree,1929,P  pacificus,PIWI,present,PIWIpresent,Degree
+Protopolystoma xenopodis,Degree,1164,P  xenopodis,PIWI,absent,PIWIabsent,Degree
+Rhodnius prolixus,Degree,3719,R  prolixus,PIWI,present,PIWIpresent,Degree
+Romanomermis culicivorax,Degree,3046,R  culicivorax,PIWI,absent,PIWIabsent,Degree
+Sarcoptes scabiei,Degree,1032,S  scabiei,PIWI,absent,PIWIabsent,Degree
+Schistocephalus solidus,Degree,2103,S  solidus,PIWI,absent,PIWIabsent,Degree
+Schistosoma haematobium,Degree,2324,S  haematobium,PIWI,absent,PIWIabsent,Degree
+Schistosoma japonicum,Degree,2167,S  japonicum,PIWI,absent,PIWIabsent,Degree
+Schistosoma mansoni,Degree,2209,S  mansoni,PIWI,absent,PIWIabsent,Degree
+Schmidtea mediterranea,Degree,4344,S  mediterranea,PIWI,present,PIWIpresent,Degree
+Soboliphyme baturini,Degree,1288,S  baturini,PIWI,absent,PIWIabsent,Degree
+Solenopsis invicta,Degree,4337,S  invicta,PIWI,present,PIWIpresent,Degree
+Spirometra erinaceieuropaei,Degree,2757,S  erinaceieuropaei,PIWI,absent,PIWIabsent,Degree
+Steinernema carpocapsae,Degree,1381,S  carpocapsae,PIWI,absent,PIWIabsent,Degree
+Steinernema scapterisci,Degree,1268,S  scapterisci,PIWI,absent,PIWIabsent,Degree
+Strigamia maritima,Degree,2789,S  maritima,PIWI,present,PIWIpresent,Degree
+Strongylocentrotus purpuratus,Degree,4112,S  purpuratus,PIWI,present,PIWIpresent,Degree
+Strongyloides ratti,Degree,681,S  ratti,PIWI,absent,PIWIabsent,Degree
+Strongyloides venezuelensis,Degree,876,S  venezuelensis,PIWI,absent,PIWIabsent,Degree
+Strongylus vulgaris,Degree,2567,S  vulgaris,PIWI,present,PIWIpresent,Degree
+Syphacia muris,Degree,812,S  muris,PIWI,absent,PIWIabsent,Degree
+Taenia asiatica,Degree,1733,T  asiatica,PIWI,absent,PIWIabsent,Degree
+Taenia saginata,Degree,1763,T  saginata,PIWI,absent,PIWIabsent,Degree
+Teladorsagia circumcincta,Degree,3617,T  circumcincta,PIWI,present,PIWIpresent,Degree
+Tetranychus urticae,Degree,1350,T  urticae,PIWI,present,PIWIpresent,Degree
+Thelazia callipaeda,Degree,771,T  callipaeda,PIWI,absent,PIWIabsent,Degree
+Thelohanellus kitauei,Degree,1238,T  kitauei,PIWI,present,PIWIpresent,Degree
+Toxocara canis,Degree,1919,T  canis,PIWI,absent,PIWIabsent,Degree
+Tribolium castaneum,Degree,1834,T  castaneum,PIWI,present,PIWIpresent,Degree
+Trichinella nelsoni,Degree,1304,T  nelsoni,PIWI,absent,PIWIabsent,Degree
+Trichinella pseudospiralis,Degree,1303,T  pseudospiralis,PIWI,absent,PIWIabsent,Degree
+Trichinella spiralis,Degree,1314,T  spiralis,PIWI,absent,PIWIabsent,Degree
+Trichobilharzia regenti,Degree,3013,T  regenti,PIWI,absent,PIWIabsent,Degree
+Trichoplax adhaerens,Degree,604,T  adhaerens,PIWI,absent,PIWIabsent,Degree
+Trichuris muris,Degree,1592,T  muris,PIWI,absent,PIWIabsent,Degree
+Trichuris suis,Degree,1526,T  suis,PIWI,absent,PIWIabsent,Degree
+Wuchereria bancrofti,Degree,1179,W  bancrofti,PIWI,absent,PIWIabsent,Degree
+Zootermopsis nevadensis,Degree,2373,Z  nevadensis,PIWI,present,PIWIpresent,Degree
+Acanthocheilonema viteae,Weighted Degree,1338727,A  viteae,PIWI,absent,PIWIabsent,Weighted Degree
+Acyrthosiphon pisum,Weighted Degree,100734868,A  pisum,PIWI,present,PIWIpresent,Weighted Degree
+Amphimedon queenslandica,Weighted Degree,43261462,A  queenslandica,PIWI,present,PIWIpresent,Weighted Degree
+Ancylostoma caninum,Weighted Degree,81528305,A  caninum,PIWI,present,PIWIpresent,Weighted Degree
+Ancylostoma ceylanicum,Weighted Degree,66767534,A  ceylanicum,PIWI,present,PIWIpresent,Weighted Degree
+Anopheles darlingi,Weighted Degree,2000107,A  darlingi,PIWI,present,PIWIpresent,Weighted Degree
+Anopheles gambiae,Weighted Degree,32430151,A  gambiae,PIWI,present,PIWIpresent,Weighted Degree
+Apis mellifera,Weighted Degree,5238030,A  mellifera,PIWI,present,PIWIpresent,Weighted Degree
+Atta cephalotes,Weighted Degree,41878573,A  cephalotes,PIWI,present,PIWIpresent,Weighted Degree
+Belgica antarctica,Weighted Degree,1755294,B  antarctica,PIWI,present,PIWIpresent,Weighted Degree
+Bombus impatiens,Weighted Degree,15772407,B  impatiens,PIWI,present,PIWIpresent,Weighted Degree
+Bombyx mori,Weighted Degree,119721708,B  mori,PIWI,present,PIWIpresent,Weighted Degree
+Brugia malayi,Weighted Degree,4034020,B  malayi,PIWI,absent,PIWIabsent,Weighted Degree
+Bursaphelenchus xylophilus,Weighted Degree,11371276,B  xylophilus,PIWI,absent,PIWIabsent,Weighted Degree
+Caenorhabditis afra,Weighted Degree,4937286,C  afra,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis angaria,Weighted Degree,8005505,C  angaria,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis brenneri,Weighted Degree,23533794,C  brenneri,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis briggsae,Weighted Degree,24027669,C  briggsae,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis castelli,Weighted Degree,9503236,C  castelli,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis doughertyi,Weighted Degree,21041591,C  doughertyi,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis elegans,Weighted Degree,13080370,C  elegans,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis japonica,Weighted Degree,49324767,C  japonica,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis kamaaina,Weighted Degree,6447167,C  kamaaina,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis latens,Weighted Degree,11924341,C  latens,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis monodelphis,Weighted Degree,14459778,C  monodelphis,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis nouraguensis,Weighted Degree,5045761,C  nouraguensis,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis plicata,Weighted Degree,32567540,C  plicata,PIWI,absent,PIWIabsent,Weighted Degree
+Caenorhabditis remanei,Weighted Degree,22471562,C  remanei,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis sinica,Weighted Degree,14749521,C  sinica,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis sp21,Weighted Degree,11100471,C  sp21,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis sp26,Weighted Degree,17561498,C  sp26,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis sp28,Weighted Degree,7315547,C  sp28,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis sp29,Weighted Degree,9054338,C  sp29,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis sp31,Weighted Degree,8768715,C  sp31,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis sp32,Weighted Degree,5189168,C  sp32,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis sp34,Weighted Degree,27984065,C  sp34,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis sp38,Weighted Degree,11981354,C  sp38,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis sp39,Weighted Degree,6290987,C  sp39,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis tropicalis,Weighted Degree,6624930,C  tropicalis,PIWI,present,PIWIpresent,Weighted Degree
+Caenorhabditis virilis,Weighted Degree,16072966,C  virilis,PIWI,present,PIWIpresent,Weighted Degree
+Capitella teleta,Weighted Degree,61084230,C  teleta,PIWI,present,PIWIpresent,Weighted Degree
+Clonorchis sinensis,Weighted Degree,128422586,C  sinensis,PIWI,absent,PIWIabsent,Weighted Degree
+Crassostrea gigas,Weighted Degree,80665806,C  gigas,PIWI,present,PIWIpresent,Weighted Degree
+Culex quinquefasciatus,Weighted Degree,169804954,C  quinquefasciatus,PIWI,present,PIWIpresent,Weighted Degree
+Danaus plexippus,Weighted Degree,19538659,D  plexippus,PIWI,present,PIWIpresent,Weighted Degree
+Daphnia pulex,Weighted Degree,32066006,D  pulex,PIWI,present,PIWIpresent,Weighted Degree
+Dendroctonus ponderosae,Weighted Degree,23678254,D  ponderosae,PIWI,present,PIWIpresent,Weighted Degree
+Dictyocaulus viviparus,Weighted Degree,3636839,D  viviparus,PIWI,present,PIWIpresent,Weighted Degree
+Diploscapter coronatus,Weighted Degree,18447173,D  coronatus,PIWI,present,PIWIpresent,Weighted Degree
+Dirofilaria immitis,Weighted Degree,2336932,D  immitis,PIWI,absent,PIWIabsent,Weighted Degree
+Ditylenchus destructor,Weighted Degree,8949434,D  destructor,PIWI,absent,PIWIabsent,Weighted Degree
+Dracunculus medinensis,Weighted Degree,15479375,D  medinensis,PIWI,absent,PIWIabsent,Weighted Degree
+Drosophila erecta,Weighted Degree,27349103,D  erecta,PIWI,present,PIWIpresent,Weighted Degree
+Drosophila grimshawi,Weighted Degree,36187963,D  grimshawi,PIWI,present,PIWIpresent,Weighted Degree
+Drosophila melanogaster,Weighted Degree,26720982,D  melanogaster,PIWI,present,PIWIpresent,Weighted Degree
+Drosophila mojavensis,Weighted Degree,29036631,D  mojavensis,PIWI,present,PIWIpresent,Weighted Degree
+Drosophila pseudoobscura,Weighted Degree,4717452,D  pseudoobscura,PIWI,present,PIWIpresent,Weighted Degree
+Drosophila simulans,Weighted Degree,16527326,D  simulans,PIWI,present,PIWIpresent,Weighted Degree
+Drosophila yakuba,Weighted Degree,33879764,D  yakuba,PIWI,present,PIWIpresent,Weighted Degree
+Echinococcus multilocularis,Weighted Degree,10560511,E  multilocularis,PIWI,absent,PIWIabsent,Weighted Degree
+Echinostoma caproni,Weighted Degree,315550082,E  caproni,PIWI,absent,PIWIabsent,Weighted Degree
+Elaeophora elaphi,Weighted Degree,1339085,E  elaphi,PIWI,absent,PIWIabsent,Weighted Degree
+Enterobius vermicularis,Weighted Degree,4554885,E  vermicularis,PIWI,absent,PIWIabsent,Weighted Degree
+Fasciola hepatica,Weighted Degree,609612743,F  hepatica,PIWI,absent,PIWIabsent,Weighted Degree
+Globodera pallida,Weighted Degree,13535504,G  pallida,PIWI,absent,PIWIabsent,Weighted Degree
+Gongylonema pulchrum,Weighted Degree,84116736,G  pulchrum,PIWI,absent,PIWIabsent,Weighted Degree
+Gyrodactylus salaris,Weighted Degree,7514712,G  salaris,PIWI,absent,PIWIabsent,Weighted Degree
+Haemonchus contortus,Weighted Degree,81837701,H  contortus,PIWI,present,PIWIpresent,Weighted Degree
+Haemonchus placei,Weighted Degree,49987868,H  placei,PIWI,present,PIWIpresent,Weighted Degree
+Heliconius melpomene,Weighted Degree,40260736,H  melpomene,PIWI,present,PIWIpresent,Weighted Degree
+Helobdella robusta,Weighted Degree,34920022,H  robusta,PIWI,present,PIWIpresent,Weighted Degree
+Heterorhabditis bacteriophora,Weighted Degree,6918205,H  bacteriophora,PIWI,present,PIWIpresent,Weighted Degree
+Hydatigera taeniaeformis,Weighted Degree,3657639,H  taeniaeformis,PIWI,absent,PIWIabsent,Weighted Degree
+Hymenolepis microstoma,Weighted Degree,14516379,H  microstoma,PIWI,absent,PIWIabsent,Weighted Degree
+Hypsibius dujardini,Weighted Degree,9095967,H  dujardini,PIWI,present,PIWIpresent,Weighted Degree
+Lepeophtheirus salmonis,Weighted Degree,258727330,L  salmonis,PIWI,present,PIWIpresent,Weighted Degree
+Lingula anatina,Weighted Degree,42015423,L  anatina,PIWI,present,PIWIpresent,Weighted Degree
+Litomosoides sigmodontis,Weighted Degree,530362,L  sigmodontis,PIWI,absent,PIWIabsent,Weighted Degree
+Loa loa,Weighted Degree,7501945,L  loa,PIWI,absent,PIWIabsent,Weighted Degree
+Lottia gigantea,Weighted Degree,46641171,L  gigantea,PIWI,present,PIWIpresent,Weighted Degree
+Lucilia cuprina,Weighted Degree,73875830,L  cuprina,PIWI,present,PIWIpresent,Weighted Degree
+Macrostomum lignano,Weighted Degree,137387320,M  lignano,PIWI,present,PIWIpresent,Weighted Degree
+Megaselia scalaris,Weighted Degree,75460346,M  scalaris,PIWI,present,PIWIpresent,Weighted Degree
+Melitaea cinxia,Weighted Degree,64088331,M  cinxia,PIWI,present,PIWIpresent,Weighted Degree
+Meloidogyne incognita,Weighted Degree,10057174,M  incognita,PIWI,absent,PIWIabsent,Weighted Degree
+Mesocestoides corti,Weighted Degree,7450330,M  corti,PIWI,absent,PIWIabsent,Weighted Degree
+Mesorhabditis belari,Weighted Degree,28113033,M  belari,PIWI,present,PIWIpresent,Weighted Degree
+Mnemiopsis leidyi,Weighted Degree,17804226,M  leidyi,PIWI,present,PIWIpresent,Weighted Degree
+Nasonia vitripennis,Weighted Degree,38938321,N  vitripennis,PIWI,present,PIWIpresent,Weighted Degree
+Necator americanus,Weighted Degree,31954661,N  americanus,PIWI,present,PIWIpresent,Weighted Degree
+Nematostella vectensis,Weighted Degree,54462503,N  vectensis,PIWI,present,PIWIpresent,Weighted Degree
+Nippostrongylus brasiliensis,Weighted Degree,54445064,N  brasiliensis,PIWI,present,PIWIpresent,Weighted Degree
+Oesophagostomum dentatum,Weighted Degree,56894778,O  dentatum,PIWI,present,PIWIpresent,Weighted Degree
+Onchocerca volvulus,Weighted Degree,5824765,O  volvulus,PIWI,absent,PIWIabsent,Weighted Degree
+Opisthorchis viverrini,Weighted Degree,132915935,O  viverrini,PIWI,absent,PIWIabsent,Weighted Degree
+Panagrellus redivivus,Weighted Degree,2995232,P  redivivus,PIWI,absent,PIWIabsent,Weighted Degree
+Parastrongyloides trichosuri,Weighted Degree,1023624,P  trichosuri,PIWI,absent,PIWIabsent,Weighted Degree
+Pediculus humanus,Weighted Degree,4530460,P  humanus,PIWI,present,PIWIpresent,Weighted Degree
+Plectus sambesii,Weighted Degree,10507768,P  sambesii,PIWI,present,PIWIpresent,Weighted Degree
+Poikilolaimus oxycercus,Weighted Degree,11550970,P  oxycercus,PIWI,present,PIWIpresent,Weighted Degree
+Pristionchus exspectatus,Weighted Degree,10904859,P  exspectatus,PIWI,present,PIWIpresent,Weighted Degree
+Pristionchus pacificus,Weighted Degree,17208519,P  pacificus,PIWI,present,PIWIpresent,Weighted Degree
+Protopolystoma xenopodis,Weighted Degree,195711683,P  xenopodis,PIWI,absent,PIWIabsent,Weighted Degree
+Rhodnius prolixus,Weighted Degree,139791116,R  prolixus,PIWI,present,PIWIpresent,Weighted Degree
+Romanomermis culicivorax,Weighted Degree,67473705,R  culicivorax,PIWI,absent,PIWIabsent,Weighted Degree
+Sarcoptes scabiei,Weighted Degree,622882,S  scabiei,PIWI,absent,PIWIabsent,Weighted Degree
+Schistocephalus solidus,Weighted Degree,216150687,S  solidus,PIWI,absent,PIWIabsent,Weighted Degree
+Schistosoma haematobium,Weighted Degree,122558909,S  haematobium,PIWI,absent,PIWIabsent,Weighted Degree
+Schistosoma japonicum,Weighted Degree,136796561,S  japonicum,PIWI,absent,PIWIabsent,Weighted Degree
+Schistosoma mansoni,Weighted Degree,137648662,S  mansoni,PIWI,absent,PIWIabsent,Weighted Degree
+Schmidtea mediterranea,Weighted Degree,261291486,S  mediterranea,PIWI,present,PIWIpresent,Weighted Degree
+Soboliphyme baturini,Weighted Degree,63186155,S  baturini,PIWI,absent,PIWIabsent,Weighted Degree
+Solenopsis invicta,Weighted Degree,65368829,S  invicta,PIWI,present,PIWIpresent,Weighted Degree
+Spirometra erinaceieuropaei,Weighted Degree,388752683,S  erinaceieuropaei,PIWI,absent,PIWIabsent,Weighted Degree
+Steinernema carpocapsae,Weighted Degree,3056693,S  carpocapsae,PIWI,absent,PIWIabsent,Weighted Degree
+Steinernema scapterisci,Weighted Degree,1356688,S  scapterisci,PIWI,absent,PIWIabsent,Weighted Degree
+Strigamia maritima,Weighted Degree,53262653,S  maritima,PIWI,present,PIWIpresent,Weighted Degree
+Strongylocentrotus purpuratus,Weighted Degree,142558043,S  purpuratus,PIWI,present,PIWIpresent,Weighted Degree
+Strongyloides ratti,Weighted Degree,2197458,S  ratti,PIWI,absent,PIWIabsent,Weighted Degree
+Strongyloides venezuelensis,Weighted Degree,5540955,S  venezuelensis,PIWI,absent,PIWIabsent,Weighted Degree
+Strongylus vulgaris,Weighted Degree,36835274,S  vulgaris,PIWI,present,PIWIpresent,Weighted Degree
+Syphacia muris,Weighted Degree,724273,S  muris,PIWI,absent,PIWIabsent,Weighted Degree
+Taenia asiatica,Weighted Degree,42393887,T  asiatica,PIWI,absent,PIWIabsent,Weighted Degree
+Taenia saginata,Weighted Degree,43899972,T  saginata,PIWI,absent,PIWIabsent,Weighted Degree
+Teladorsagia circumcincta,Weighted Degree,124339957,T  circumcincta,PIWI,present,PIWIpresent,Weighted Degree
+Tetranychus urticae,Weighted Degree,7633424,T  urticae,PIWI,present,PIWIpresent,Weighted Degree
+Thelazia callipaeda,Weighted Degree,1850104,T  callipaeda,PIWI,absent,PIWIabsent,Weighted Degree
+Thelohanellus kitauei,Weighted Degree,33937411,T  kitauei,PIWI,present,PIWIpresent,Weighted Degree
+Toxocara canis,Weighted Degree,12738285,T  canis,PIWI,absent,PIWIabsent,Weighted Degree
+Tribolium castaneum,Weighted Degree,21561052,T  castaneum,PIWI,present,PIWIpresent,Weighted Degree
+Trichinella nelsoni,Weighted Degree,6643024,T  nelsoni,PIWI,absent,PIWIabsent,Weighted Degree
+Trichinella pseudospiralis,Weighted Degree,6769174,T  pseudospiralis,PIWI,absent,PIWIabsent,Weighted Degree
+Trichinella spiralis,Weighted Degree,11438841,T  spiralis,PIWI,absent,PIWIabsent,Weighted Degree
+Trichobilharzia regenti,Weighted Degree,271128120,T  regenti,PIWI,absent,PIWIabsent,Weighted Degree
+Trichoplax adhaerens,Weighted Degree,2191400,T  adhaerens,PIWI,absent,PIWIabsent,Weighted Degree
+Trichuris muris,Weighted Degree,21155561,T  muris,PIWI,absent,PIWIabsent,Weighted Degree
+Trichuris suis,Weighted Degree,8943897,T  suis,PIWI,absent,PIWIabsent,Weighted Degree
+Wuchereria bancrofti,Weighted Degree,1875246,W  bancrofti,PIWI,absent,PIWIabsent,Weighted Degree
+Zootermopsis nevadensis,Weighted Degree,63144259,Z  nevadensis,PIWI,present,PIWIpresent,Weighted Degree

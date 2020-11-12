@@ -1,0 +1,100 @@
+clustername,EpiVal,EpiVar,Color,variable,value,variable_fac
+0_meth,present,DNMT,DNMTpresent,Singletons,4,Singletons
+0_nometh,absent,DNMT,DNMTabsent,Singletons,43.3846153846154,Singletons
+1_meth,present,DNMT,DNMTpresent,Singletons,254.882352941176,Singletons
+1_nometh,absent,DNMT,DNMTabsent,Singletons,360.8,Singletons
+10_meth,present,DNMT,DNMTpresent,Singletons,438.5,Singletons
+10_nometh,absent,DNMT,DNMTabsent,Singletons,139.5,Singletons
+2_nometh,absent,DNMT,DNMTabsent,Singletons,62.875,Singletons
+3_meth,present,DNMT,DNMTpresent,Singletons,36,Singletons
+3_nometh,absent,DNMT,DNMTabsent,Singletons,160.833333333333,Singletons
+4_meth,present,DNMT,DNMTpresent,Singletons,35.8,Singletons
+5_meth,present,DNMT,DNMTpresent,Singletons,395.5,Singletons
+6_nometh,absent,DNMT,DNMTabsent,Singletons,49.15625,Singletons
+7_meth,present,DNMT,DNMTpresent,Singletons,391,Singletons
+7_nometh,absent,DNMT,DNMTabsent,Singletons,6.5,Singletons
+8_nometh,absent,DNMT,DNMTabsent,Singletons,85.2307692307692,Singletons
+9_meth,present,DNMT,DNMTpresent,Singletons,216,Singletons
+9_nometh,absent,DNMT,DNMTabsent,Singletons,167.375,Singletons
+0_-1,absent,PIWI,PIWIabsent,Singletons,40.5714285714286,Singletons
+1_-1,absent,PIWI,PIWIabsent,Singletons,183,Singletons
+1_1,present,PIWI,PIWIpresent,Singletons,294.105263157895,Singletons
+10_-1,absent,PIWI,PIWIabsent,Singletons,46,Singletons
+10_1,present,PIWI,PIWIpresent,Singletons,419.818181818182,Singletons
+2_-1,absent,PIWI,PIWIabsent,Singletons,62.875,Singletons
+3_1,present,PIWI,PIWIpresent,Singletons,143,Singletons
+4_-1,absent,PIWI,PIWIabsent,Singletons,35.8,Singletons
+5_-1,absent,PIWI,PIWIabsent,Singletons,691,Singletons
+5_1,present,PIWI,PIWIpresent,Singletons,100,Singletons
+6_-1,absent,PIWI,PIWIabsent,Singletons,36.4285714285714,Singletons
+6_1,present,PIWI,PIWIpresent,Singletons,52.72,Singletons
+7_1,present,PIWI,PIWIpresent,Singletons,134.666666666667,Singletons
+8_1,present,PIWI,PIWIpresent,Singletons,85.2307692307692,Singletons
+9_-1,absent,PIWI,PIWIabsent,Singletons,121.333333333333,Singletons
+9_1,present,PIWI,PIWIpresent,Singletons,275.666666666667,Singletons
+0_meth,present,DNMT,DNMTpresent,Degree,1032,Degree
+0_nometh,absent,DNMT,DNMTabsent,Degree,1260.30769230769,Degree
+1_meth,present,DNMT,DNMTpresent,Degree,3171.23529411765,Degree
+1_nometh,absent,DNMT,DNMTabsent,Degree,2105.8,Degree
+10_meth,present,DNMT,DNMTpresent,Degree,2883.6,Degree
+10_nometh,absent,DNMT,DNMTabsent,Degree,935.5,Degree
+2_nometh,absent,DNMT,DNMTabsent,Degree,2187.3125,Degree
+3_meth,present,DNMT,DNMTpresent,Degree,1237,Degree
+3_nometh,absent,DNMT,DNMTabsent,Degree,2411.08333333333,Degree
+4_meth,present,DNMT,DNMTpresent,Degree,1407.8,Degree
+5_meth,present,DNMT,DNMTpresent,Degree,2198,Degree
+6_nometh,absent,DNMT,DNMTabsent,Degree,2431.96875,Degree
+7_meth,present,DNMT,DNMTpresent,Degree,2789,Degree
+7_nometh,absent,DNMT,DNMTabsent,Degree,1934.5,Degree
+8_nometh,absent,DNMT,DNMTabsent,Degree,2660.69230769231,Degree
+9_meth,present,DNMT,DNMTpresent,Degree,1780,Degree
+9_nometh,absent,DNMT,DNMTabsent,Degree,1660,Degree
+0_-1,absent,PIWI,PIWIabsent,Degree,1244,Degree
+1_-1,absent,PIWI,PIWIabsent,Degree,1172,Degree
+1_1,present,PIWI,PIWIpresent,Degree,3206.52631578947,Degree
+10_-1,absent,PIWI,PIWIabsent,Degree,604,Degree
+10_1,present,PIWI,PIWIpresent,Degree,2736.63636363636,Degree
+2_-1,absent,PIWI,PIWIabsent,Degree,2187.3125,Degree
+3_1,present,PIWI,PIWIpresent,Degree,2243.35714285714,Degree
+4_-1,absent,PIWI,PIWIabsent,Degree,1407.8,Degree
+5_-1,absent,PIWI,PIWIabsent,Degree,3046,Degree
+5_1,present,PIWI,PIWIpresent,Degree,1350,Degree
+6_-1,absent,PIWI,PIWIabsent,Degree,1010.28571428571,Degree
+6_1,present,PIWI,PIWIpresent,Degree,2830.04,Degree
+7_1,present,PIWI,PIWIpresent,Degree,2219.33333333333,Degree
+8_1,present,PIWI,PIWIpresent,Degree,2660.69230769231,Degree
+9_-1,absent,PIWI,PIWIabsent,Degree,1419.66666666667,Degree
+9_1,present,PIWI,PIWIpresent,Degree,2180.66666666667,Degree
+0_meth,present,DNMT,DNMTpresent,Weighted Degree,622882,Weighted Degree
+0_nometh,absent,DNMT,DNMTabsent,Weighted Degree,11441936.6923077,Weighted Degree
+1_meth,present,DNMT,DNMTpresent,Weighted Degree,127521444.411765,Weighted Degree
+1_nometh,absent,DNMT,DNMTabsent,Weighted Degree,104426709.2,Weighted Degree
+10_meth,present,DNMT,DNMTpresent,Weighted Degree,65794619,Weighted Degree
+10_nometh,absent,DNMT,DNMTabsent,Weighted Degree,5643683.5,Weighted Degree
+2_nometh,absent,DNMT,DNMTabsent,Weighted Degree,161375980.375,Weighted Degree
+3_meth,present,DNMT,DNMTpresent,Weighted Degree,3142877,Weighted Degree
+3_nometh,absent,DNMT,DNMTabsent,Weighted Degree,43999217.4166667,Weighted Degree
+4_meth,present,DNMT,DNMTpresent,Weighted Degree,10990099.4,Weighted Degree
+5_meth,present,DNMT,DNMTpresent,Weighted Degree,37553564.5,Weighted Degree
+6_nometh,absent,DNMT,DNMTabsent,Weighted Degree,12338922.03125,Weighted Degree
+7_meth,present,DNMT,DNMTpresent,Weighted Degree,53262653,Weighted Degree
+7_nometh,absent,DNMT,DNMTabsent,Weighted Degree,14056689,Weighted Degree
+8_nometh,absent,DNMT,DNMTabsent,Weighted Degree,48311779.7692308,Weighted Degree
+9_meth,present,DNMT,DNMTpresent,Weighted Degree,10507768,Weighted Degree
+9_nometh,absent,DNMT,DNMTabsent,Weighted Degree,11203664.5,Weighted Degree
+0_-1,absent,PIWI,PIWIabsent,Weighted Degree,10669147.0714286,Weighted Degree
+1_-1,absent,PIWI,PIWIabsent,Weighted Degree,88804183.3333333,Weighted Degree
+1_1,present,PIWI,PIWIpresent,Weighted Degree,127557134.263158,Weighted Degree
+10_-1,absent,PIWI,PIWIabsent,Weighted Degree,2191400,Weighted Degree
+10_1,present,PIWI,PIWIpresent,Weighted Degree,60640196.0909091,Weighted Degree
+2_-1,absent,PIWI,PIWIabsent,Weighted Degree,161375980.375,Weighted Degree
+3_1,present,PIWI,PIWIpresent,Weighted Degree,38162597.3571429,Weighted Degree
+4_-1,absent,PIWI,PIWIabsent,Weighted Degree,10990099.4,Weighted Degree
+5_-1,absent,PIWI,PIWIabsent,Weighted Degree,67473705,Weighted Degree
+5_1,present,PIWI,PIWIpresent,Weighted Degree,7633424,Weighted Degree
+6_-1,absent,PIWI,PIWIabsent,Weighted Degree,5750007,Weighted Degree
+6_1,present,PIWI,PIWIpresent,Weighted Degree,14183818.24,Weighted Degree
+7_1,present,PIWI,PIWIpresent,Weighted Degree,27125343.6666667,Weighted Degree
+8_1,present,PIWI,PIWIpresent,Weighted Degree,48311779.7692308,Weighted Degree
+9_-1,absent,PIWI,PIWIabsent,Weighted Degree,8327552.16666667,Weighted Degree
+9_1,present,PIWI,PIWIpresent,Weighted Degree,16723923.6666667,Weighted Degree
